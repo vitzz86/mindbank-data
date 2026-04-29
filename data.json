@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-04-28T17:36:11.596Z",
-    "total_episodes": 555,
-    "total_guests": 451,
+    "last_updated": "2026-04-29T15:04:41.466Z",
+    "total_episodes": 556,
+    "total_guests": 452,
     "total_topics": 130,
     "podcasts_count": 3
   },
@@ -13,7 +13,7 @@
       "host": "Gita Wirjawan",
       "color": "#1D9E75",
       "description": "Long-form intellectual conversations with world-class thought leaders, economists, politicians, and academics hosted by Gita Wirjawan — Indonesian entrepreneur and former Trade Minister.",
-      "total_episodes": 276
+      "total_episodes": 277
     },
     {
       "id": "dwarkesh",
@@ -33,6 +33,43 @@
     }
   ],
   "episodes": [
+    {
+      "id": "gE8hclil1uM",
+      "podcast_id": "endgame",
+      "episode_number": "#266",
+      "title": "Why Constitutional Monarchy Might Be the Best Form of Government - Tom Ginsburg | Endgame #266",
+      "published_date": "2026-04-28",
+      "duration_minutes": 88,
+      "url": "https://youtube.com/watch?v=gE8hclil1uM",
+      "thumbnail_url": "https://i.ytimg.com/vi/gE8hclil1uM/maxresdefault.jpg",
+      "guest_name": "Why Constitutional Monarchy Might Be the Best Form of Government - Tom Ginsburg",
+      "guest_title": "Professor of Law, University of Chicago",
+      "summary": "Professor Ginsburg discusses the role of institutions in democracy, arguing that strong institutions are necessary to ensure that elections are meaningful and that power is distributed fairly. He contrasts this with authoritarian regimes, where power is concentrated in the hands of a few. He also discusses the challenges of social media and AI to democracy, and the importance of education and human capital.",
+      "key_highlights": [
+        "Imperialism abroad leads to dictatorship at home, they are inseparable",
+        "People like control of their lives and know when they are lied to",
+        "Democracy means more turnover of mediocre leaders",
+        "Hope and disappointment are the emotions of democracy",
+        "Fear is the dominant emotion in dictatorship",
+        "Hope and disappointment are the emotions of democracy"
+      ],
+      "topics": [
+        "Politics",
+        "Law",
+        "Geopolitics",
+        "Technology"
+      ],
+      "subtopics": [
+        "Democracy",
+        "Dictatorship",
+        "International Law",
+        "US Politics",
+        "Social Media",
+        "AI"
+      ],
+      "quotes": "Imperialism abroad leads to dictatorship at home. They go together like peanut butter and jelly. Hope and disappointment are the emotions of democracy. In dictatorship, of course, it's fear. That's the emotion.",
+      "processed_at": "2026-04-29T15:02:13.108Z"
+    },
     {
       "id": "7VAU6ejU3cc",
       "podcast_id": "endgame",
@@ -21528,6 +21565,24 @@
       "is_crossover": false
     },
     {
+      "name": "Why Constitutional Monarchy Might Be the Best Form of Government - Tom Ginsburg",
+      "title": "Professor of Law, University of Chicago",
+      "podcasts": [
+        "endgame"
+      ],
+      "episode_ids": [
+        "gE8hclil1uM"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "Politics",
+        "Law",
+        "Geopolitics",
+        "Technology"
+      ],
+      "is_crossover": false
+    },
+    {
       "name": "Wesley Clark",
       "title": "Retired General, US Army",
       "podcasts": [
@@ -28820,6 +28875,7 @@
     {
       "name": "Technology",
       "episode_ids": [
+        "gE8hclil1uM",
         "rsi7cDRUrmE",
         "WNcW2jHGrtk",
         "oc1D9YNjZ7U",
@@ -29013,7 +29069,7 @@
         "0cYa4L1CXmQ",
         "G4nOHaqzZKs"
       ],
-      "episode_count": 192,
+      "episode_count": 193,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -29742,6 +29798,7 @@
     {
       "name": "Politics",
       "episode_ids": [
+        "gE8hclil1uM",
         "-dIGHyQGVZM",
         "4aCa3tHl_sA",
         "lpQrUTWXHZU",
@@ -29831,7 +29888,7 @@
         "1QNHJbq9EWM",
         "USd9drb23Ks"
       ],
-      "episode_count": 88,
+      "episode_count": 89,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -29841,6 +29898,7 @@
     {
       "name": "Geopolitics",
       "episode_ids": [
+        "gE8hclil1uM",
         "7VAU6ejU3cc",
         "PCYpeJYu9hY",
         "vlPZlw3PYuA",
@@ -29926,7 +29984,7 @@
         "gydZDZ-7QtY",
         "smCEH662iNs"
       ],
-      "episode_count": 84,
+      "episode_count": 85,
       "podcasts": [
         "endgame"
       ]
@@ -30803,6 +30861,21 @@
       ]
     },
     {
+      "name": "Law",
+      "episode_ids": [
+        "gE8hclil1uM",
+        "-dIGHyQGVZM",
+        "4OxaGjW3PAo",
+        "v9VivdTmsUA",
+        "9c1rhFyL-gc",
+        "mQ0JGmHsv48"
+      ],
+      "episode_count": 6,
+      "podcasts": [
+        "endgame"
+      ]
+    },
+    {
       "name": "Political Science",
       "episode_ids": [
         "PCYpeJYu9hY",
@@ -30905,20 +30978,6 @@
         "a8571M_QFaU"
       ],
       "episode_count": 6,
-      "podcasts": [
-        "endgame"
-      ]
-    },
-    {
-      "name": "Law",
-      "episode_ids": [
-        "-dIGHyQGVZM",
-        "4OxaGjW3PAo",
-        "v9VivdTmsUA",
-        "9c1rhFyL-gc",
-        "mQ0JGmHsv48"
-      ],
-      "episode_count": 5,
       "podcasts": [
         "endgame"
       ]
@@ -33067,19 +33126,51 @@
       "Apr": [
         {
           "text": "Geopolitics",
+          "count": 4
+        },
+        {
+          "text": "AI",
           "count": 3
+        },
+        {
+          "text": "Technology",
+          "count": 2
         },
         {
           "text": "Philosophy",
           "count": 2
         },
         {
-          "text": "AI",
+          "text": "AI Safety",
           "count": 2
         },
         {
-          "text": "AI Safety",
-          "count": 2
+          "text": "Politics",
+          "count": 1
+        },
+        {
+          "text": "Law",
+          "count": 1
+        },
+        {
+          "text": "Democracy",
+          "count": 1
+        },
+        {
+          "text": "Dictatorship",
+          "count": 1
+        },
+        {
+          "text": "International Law",
+          "count": 1
+        },
+        {
+          "text": "US Politics",
+          "count": 1
+        },
+        {
+          "text": "Social Media",
+          "count": 1
         },
         {
           "text": "Religion",
@@ -33103,10 +33194,6 @@
         },
         {
           "text": "American History",
-          "count": 1
-        },
-        {
-          "text": "Technology",
           "count": 1
         },
         {
@@ -33156,37 +33243,11 @@
         {
           "text": "Fundraising",
           "count": 1
-        },
-        {
-          "text": "Private Equity",
-          "count": 1
-        },
-        {
-          "text": "Economic Mobility",
-          "count": 1
-        },
-        {
-          "text": "Social Impact",
-          "count": 1
-        },
-        {
-          "text": "Career Advice",
-          "count": 1
-        },
-        {
-          "text": "Political Science",
-          "count": 1
-        },
-        {
-          "text": "International Relations",
-          "count": 1
-        },
-        {
-          "text": "US Foreign Policy",
-          "count": 1
         }
       ]
     }
   },
-  "new_this_week": []
+  "new_this_week": [
+    "gE8hclil1uM"
+  ]
 }
