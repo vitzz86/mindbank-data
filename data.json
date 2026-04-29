@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-29T15:04:41.466Z",
+    "last_updated": "2026-04-29T17:36:17.048Z",
     "total_episodes": 556,
     "total_guests": 452,
     "total_topics": 130,
@@ -42,7 +42,7 @@
       "duration_minutes": 88,
       "url": "https://youtube.com/watch?v=gE8hclil1uM",
       "thumbnail_url": "https://i.ytimg.com/vi/gE8hclil1uM/maxresdefault.jpg",
-      "guest_name": "Why Constitutional Monarchy Might Be the Best Form of Government - Tom Ginsburg",
+      "guest_name": "Tom Ginsburg",
       "guest_title": "Professor of Law, University of Chicago",
       "summary": "Professor Ginsburg discusses the role of institutions in democracy, arguing that strong institutions are necessary to ensure that elections are meaningful and that power is distributed fairly. He contrasts this with authoritarian regimes, where power is concentrated in the hands of a few. He also discusses the challenges of social media and AI to democracy, and the importance of education and human capital.",
       "key_highlights": [
@@ -21565,7 +21565,7 @@
       "is_crossover": false
     },
     {
-      "name": "Why Constitutional Monarchy Might Be the Best Form of Government - Tom Ginsburg",
+      "name": "Tom Ginsburg",
       "title": "Professor of Law, University of Chicago",
       "podcasts": [
         "endgame"
