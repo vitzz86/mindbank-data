@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-30T17:36:12.763Z",
+    "last_updated": "2026-05-01T13:31:46.356Z",
     "total_episodes": 556,
     "total_guests": 452,
     "total_topics": 130,
@@ -10657,32 +10657,34 @@
       "url": "https://youtube.com/watch?v=iuxWjJftFGY",
       "thumbnail_url": "https://i.ytimg.com/vi/iuxWjJftFGY/maxresdefault.jpg",
       "guest_name": "Maudy Ayunda",
-      "guest_title": "Actress, Singer, and Investor",
-      "summary": "Maudy Ayunda discusses her educational background and career choices, emphasizing the importance of critical thinking, a well-rounded education, and the need to challenge assumptions. She and Gita Wirjawan explore the role of education in fostering critical thinking and discuss the challenges and opportunities in Indonesia's education system. They also touch on the importance of having a diverse set of skills and experiences, rather than focusing solely on one area.",
+      "guest_title": "Young Thinker",
+      "summary": "Maudy Ayunda shares her 'love-hate' relationship with the concept of passion, suggesting it can be a choice rather than a mystical discovery, to avoid feeling powerless. Her diverse career in entertainment and extensive education in philosophy, business, and education have shaped her perspective. She highlights how her Oxford education fostered critical thinking by challenging assumptions and encouraging debate. Maudy advocates for 'late specialization' and multidimensionality, believing it builds mental resilience and mitigates blind spots. She emphasizes the crucial role of education, particularly its content and curriculum, in fostering critical thinking and addressing societal issues. Ultimately, she believes in leveraging Indonesia's unique cultural richness through storytelling and local content for global recognition.",
       "key_highlights": [
-        "Passion can be a choice",
-        "Passion is love-hate",
-        "Passion can be a choice",
-        "Passion can be a choice",
-        "Passion can be a choice",
-        "Passion can be a choice",
-        "Passion can be a choice"
+        "Passion can be a choice, not just a deep-seated discovery",
+        "Oxford's philosophy program transformed her critical thinking abilities",
+        "Youth entrepreneurship is driven by ownership and extreme accountability",
+        "Late specialization builds mental resilience and reduces blind spots",
+        "Education should foster critical thinking, not just memorization of facts",
+        "The power of insecurity can drive ambition and a hunger for knowledge",
+        "Indonesia needs to internationalize its rich local content and stories"
       ],
       "topics": [
         "Education",
         "Philosophy",
-        "Career Advice",
-        "Indonesian Culture"
+        "Career",
+        "Entrepreneurship",
+        "Culture"
       ],
       "subtopics": [
         "Critical Thinking",
-        "Passion",
-        "Career Choices",
-        "Indonesian Education System",
-        "Multidimensionality"
+        "Personal Growth",
+        "Talent Development",
+        "Public Policy",
+        "Storytelling",
+        "Social Impact"
       ],
-      "quotes": "Jangan sampai orang berpikir bahwa passion itu sesuatu yang dalam, terus harus kita cari-cari, pada saat kita enggak menemukan, kita jadi merasa lemah.",
-      "processed_at": "2026-04-18T16:10:52.976Z"
+      "quotes": "Saya sempat berpikir juga lama tentang bagaimana insecurity itu sebenarnya membuahkan ambition gitu. Di diri aku sendiri. Dan dari insecurity itu merasa tidak tahu apa-apa, merasa tidak bisa apa-apa itu membuat saya haus dan lapar akan pengetahuan.",
+      "processed_at": "2026-05-01T13:26:44.569Z"
     },
     {
       "id": "si2zu7KdVRQ",
@@ -24080,7 +24082,7 @@
     },
     {
       "name": "Maudy Ayunda",
-      "title": "Actress, Singer, and Investor",
+      "title": "Young Thinker",
       "podcasts": [
         "endgame"
       ],
@@ -24091,8 +24093,9 @@
       "topics": [
         "Education",
         "Philosophy",
-        "Career Advice",
-        "Indonesian Culture"
+        "Career",
+        "Entrepreneurship",
+        "Culture"
       ],
       "is_crossover": false
     },
@@ -29449,6 +29452,7 @@
         "xLkU_JFiDww",
         "wMSdeAL-_SE",
         "cF5-RYeSPjE",
+        "iuxWjJftFGY",
         "IxiWNCpshP0",
         "J73zR3ZkFIE",
         "cCrVOkpLuTg",
@@ -29560,7 +29564,7 @@
         "1LZV_MuynYQ",
         "KPWGJn7V6lc"
       ],
-      "episode_count": 132,
+      "episode_count": 133,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -29695,6 +29699,7 @@
       "episode_ids": [
         "Rr4DoSV9mrk",
         "oeMltWkksAQ",
+        "iuxWjJftFGY",
         "myf3PhTh1SY",
         "Yo3Vwx_Ln8M",
         "uIOY_TUDSAs",
@@ -29789,7 +29794,7 @@
         "KPWGJn7V6lc",
         "_wKn1EolHjU"
       ],
-      "episode_count": 95,
+      "episode_count": 96,
       "podcasts": [
         "endgame",
         "viewfromthetop"
@@ -30093,6 +30098,7 @@
         "t3EZktpIAUg",
         "5mh-P3SUQek",
         "ayh1aKY7r6E",
+        "iuxWjJftFGY",
         "IblL2-HC6r8",
         "67hj6ce0UIc",
         "ThiYAcoj1FA",
@@ -30164,7 +30170,7 @@
         "w2wYx6qE-sI",
         "G4nOHaqzZKs"
       ],
-      "episode_count": 77,
+      "episode_count": 78,
       "podcasts": [
         "endgame",
         "viewfromthetop"
@@ -30652,7 +30658,6 @@
         "xg17vLhT8As",
         "0D5-SkHpq3U",
         "ayh1aKY7r6E",
-        "iuxWjJftFGY",
         "BIjrL976Zwo",
         "ShAgs1bS42I",
         "TPwUGxkuY_s",
@@ -30664,7 +30669,7 @@
         "0TKdxOiMaoY",
         "rBTTADDpVqA"
       ],
-      "episode_count": 16,
+      "episode_count": 15,
       "podcasts": [
         "endgame"
       ]
@@ -31284,17 +31289,6 @@
       ]
     },
     {
-      "name": "Career Advice",
-      "episode_ids": [
-        "ppmo71B-LEA",
-        "iuxWjJftFGY"
-      ],
-      "episode_count": 2,
-      "podcasts": [
-        "endgame"
-      ]
-    },
-    {
       "name": "Military Strategy",
       "episode_ids": [
         "TO4Ja_9yMvw",
@@ -31528,6 +31522,16 @@
     },
     {
       "name": "Computer Science",
+      "episode_ids": [
+        "ppmo71B-LEA"
+      ],
+      "episode_count": 1,
+      "podcasts": [
+        "endgame"
+      ]
+    },
+    {
+      "name": "Career Advice",
       "episode_ids": [
         "ppmo71B-LEA"
       ],
@@ -32383,7 +32387,7 @@
       },
       {
         "text": "Culture",
-        "count": 41
+        "count": 42
       },
       {
         "text": "Politics",
@@ -32399,19 +32403,19 @@
       },
       {
         "text": "Entrepreneurship",
-        "count": 30
+        "count": 31
       },
       {
         "text": "History",
         "count": 30
       },
       {
-        "text": "Indonesian Culture",
-        "count": 29
+        "text": "Public Policy",
+        "count": 28
       },
       {
-        "text": "Public Policy",
-        "count": 27
+        "text": "Indonesian Culture",
+        "count": 28
       },
       {
         "text": "AI",
@@ -32502,11 +32506,11 @@
         "count": 9
       },
       {
-        "text": "Music",
+        "text": "Personal Growth",
         "count": 9
       },
       {
-        "text": "Indonesian Education System",
+        "text": "Music",
         "count": 9
       },
       {
@@ -32514,7 +32518,11 @@
         "count": 9
       },
       {
-        "text": "Personal Growth",
+        "text": "Career",
+        "count": 8
+      },
+      {
+        "text": "Indonesian Education System",
         "count": 8
       },
       {
@@ -32539,10 +32547,6 @@
       },
       {
         "text": "Economic Development",
-        "count": 7
-      },
-      {
-        "text": "Career",
         "count": 7
       },
       {
