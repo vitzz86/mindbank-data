@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-02T04:41:19.848Z",
-    "total_episodes": 1223,
+    "last_updated": "2026-05-02T04:50:29.556Z",
+    "total_episodes": 1222,
     "total_guests": 1010,
     "total_topics": 266,
     "podcasts_count": 5
@@ -37,7 +37,7 @@
       "host": "Steven Bartlett",
       "color": "#E8C547",
       "description": "Steven Bartlett sits down with the world's most influential entrepreneurs, scientists, doctors, athletes, and thinkers to uncover the real stories, lessons, and mindsets behind success.",
-      "total_episodes": 493
+      "total_episodes": 492
     },
     {
       "id": "lexfridman",
@@ -3169,44 +3169,6 @@
       ],
       "quotes": "only a nuclear-level AI catastrophe will wake us up",
       "processed_at": "2026-04-29T05:18:22.274Z"
-    },
-    {
-      "id": "P7Y-fynYsgE",
-      "podcast_id": "diaryofaceo",
-      "episode_number": "#43",
-      "title": "An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future!",
-      "published_date": "2025-12-03",
-      "duration_minutes": 124,
-      "url": "https://youtube.com/watch?v=P7Y-fynYsgE",
-      "thumbnail_url": "https://i.ytimg.com/vi/P7Y-fynYsgE/maxresdefault.jpg",
-      "guest_name": "Stuart Russell",
-      "guest_title": "Computer Science Professor at UC Berkeley, Smith-Zadeh Chair in Engineering, and Director of the Center for Human-Compatible AI",
-      "summary": "Professor Stuart Russell warns of a trillion-dollar AI race where governments are outfunded by Big Tech, leading to a lack of regulation despite extinction-level risks. He explains the 'gorilla problem,' suggesting superintelligent AGI could replace humans by 2030, and highlights how current AI systems already exhibit lying and self-preservation. Russell argues that only a nuclear-level AI catastrophe will prompt global action, debunking the myth of 'pulling the plug' and detailing his decade-long work on a radical solution for human-compatible AI.",
-      "key_highlights": [
-        "Trillion-dollar AI race outpaces government regulation",
-        "AGI could replace humans by 2030, posing extinction risk",
-        "Only nuclear-level AI catastrophe will spur action",
-        "'Gorilla problem' reveals human future under superintelligent AI",
-        "Current AI systems already demonstrate lying and self-preservation",
-        "Radical solution being built to ensure human-compatible AI",
-        "Myth of 'pulling the plug' on powerful AI systems"
-      ],
-      "topics": [
-        "Technology",
-        "Politics",
-        "Philosophy",
-        "Economics"
-      ],
-      "subtopics": [
-        "Artificial General Intelligence",
-        "AI safety",
-        "Existential risk",
-        "Government regulation",
-        "Superintelligence",
-        "Human-compatible AI"
-      ],
-      "quotes": "Only a nuclear-level AI catastrophe will wake us up.",
-      "processed_at": "2026-04-29T05:23:46.453Z"
     },
     {
       "id": "Ss6ud71pmvQ",
@@ -47297,25 +47259,6 @@
       "is_crossover": false
     },
     {
-      "name": "Stuart Russell",
-      "title": "Computer Science Professor at UC Berkeley, Smith-Zadeh Chair in Engineering, and Director of the Center for Human-Compatible AI",
-      "podcasts": [
-        "diaryofaceo"
-      ],
-      "episode_ids": [
-        "P7Y-fynYsgE",
-        "P7Y-fynYsgE"
-      ],
-      "episode_count": 2,
-      "topics": [
-        "Technology",
-        "Politics",
-        "Economics",
-        "Philosophy"
-      ],
-      "is_crossover": false
-    },
-    {
       "name": "Matthew Walker",
       "title": "Professor of Neuroscience and Psychology at the University of California, Berkeley",
       "podcasts": [
@@ -55227,6 +55170,24 @@
         "Business",
         "Finance",
         "Mindset"
+      ],
+      "is_crossover": false
+    },
+    {
+      "name": "Stuart Russell",
+      "title": "Computer Science Professor at UC Berkeley, Smith-Zadeh Chair in Engineering, and Director of the Center for Human-Compatible AI",
+      "podcasts": [
+        "diaryofaceo"
+      ],
+      "episode_ids": [
+        "P7Y-fynYsgE"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "Technology",
+        "Politics",
+        "Economics",
+        "Philosophy"
       ],
       "is_crossover": false
     },
@@ -64223,7 +64184,6 @@
         "2ZKLaUbB33o",
         "zQ1POHiR8m8",
         "P7Y-fynYsgE",
-        "P7Y-fynYsgE",
         "BFU1OCkhBwo",
         "jroF3PH-PTs",
         "gW3vVIFRVhw",
@@ -64329,7 +64289,7 @@
         "ZFntEFXKDHM",
         "iSMpTmibeDw"
       ],
-      "episode_count": 315,
+      "episode_count": 314,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -64553,7 +64513,6 @@
         "nJeU72Rgjh4",
         "FoeQUNASmTU",
         "P7Y-fynYsgE",
-        "P7Y-fynYsgE",
         "BFU1OCkhBwo",
         "jFlnRBO8mcg",
         "XTGlde-Pbd8",
@@ -64602,7 +64561,7 @@
         "pNlfHgHJweQ",
         "5Gk9gIpGvSE"
       ],
-      "episode_count": 260,
+      "episode_count": 259,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -64730,7 +64689,6 @@
         "9uSXOr-AdAU",
         "nrwNSSyKuD4",
         "P7Y-fynYsgE",
-        "P7Y-fynYsgE",
         "gW3vVIFRVhw",
         "Esu8BXLBmZ4",
         "QMzxNfX-uAg",
@@ -64843,7 +64801,7 @@
         "iZRbD7q1n-U",
         "p3lsYlod5OU"
       ],
-      "episode_count": 229,
+      "episode_count": 228,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -65409,7 +65367,6 @@
         "yUNoJ32eLBc",
         "zQ1POHiR8m8",
         "P7Y-fynYsgE",
-        "P7Y-fynYsgE",
         "BFU1OCkhBwo",
         "D3lhrrXb4WI",
         "fu6bYPTp_kE",
@@ -65508,7 +65465,7 @@
         "OYsYgzzsdT0",
         "VeH7qKZr0WI"
       ],
-      "episode_count": 201,
+      "episode_count": 200,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -71135,11 +71092,11 @@
       },
       {
         "text": "Technology",
-        "count": 61
+        "count": 60
       },
       {
         "text": "Economics",
-        "count": 56
+        "count": 55
       },
       {
         "text": "Science",
@@ -71147,11 +71104,11 @@
       },
       {
         "text": "Politics",
-        "count": 50
+        "count": 49
       },
       {
         "text": "Philosophy",
-        "count": 45
+        "count": 44
       },
       {
         "text": "Health",
@@ -71254,10 +71211,6 @@
         "count": 5
       },
       {
-        "text": "AI safety",
-        "count": 5
-      },
-      {
         "text": "Reinforcement Learning",
         "count": 5
       },
@@ -71278,15 +71231,15 @@
         "count": 5
       },
       {
+        "text": "AI safety",
+        "count": 4
+      },
+      {
         "text": "AI regulation",
         "count": 4
       },
       {
         "text": "Religion",
-        "count": 4
-      },
-      {
-        "text": "Existential risk",
         "count": 4
       },
       {
@@ -71327,6 +71280,10 @@
       },
       {
         "text": "Body language",
+        "count": 4
+      },
+      {
+        "text": "US Foreign Policy",
         "count": 4
       }
     ],
