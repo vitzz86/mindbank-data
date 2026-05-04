@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-03T17:36:13.875Z",
-    "total_episodes": 1222,
+    "last_updated": "2026-05-04T17:36:12.984Z",
+    "total_episodes": 1223,
     "total_guests": 1010,
     "total_topics": 266,
     "podcasts_count": 5
@@ -37,7 +37,7 @@
       "host": "Steven Bartlett",
       "color": "#E8C547",
       "description": "Steven Bartlett sits down with the world's most influential entrepreneurs, scientists, doctors, athletes, and thinkers to uncover the real stories, lessons, and mindsets behind success.",
-      "total_episodes": 492
+      "total_episodes": 493
     },
     {
       "id": "lexfridman",
@@ -49,6 +49,44 @@
     }
   ],
   "episodes": [
+    {
+      "id": "NdU6UdUKaYc",
+      "podcast_id": "diaryofaceo",
+      "episode_number": "",
+      "title": "Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!",
+      "published_date": "2026-05-03",
+      "duration_minutes": 118,
+      "url": "https://youtube.com/watch?v=NdU6UdUKaYc",
+      "thumbnail_url": "https://i.ytimg.com/vi/NdU6UdUKaYc/maxresdefault.jpg",
+      "guest_name": "Steven Bartlett",
+      "guest_title": "NYU Stern Professor of Marketing, entrepreneur, and host of The Prof G Pod and Pivot",
+      "summary": "Scott Galloway argues that the 'AI job apocalypse' narrative is largely marketing hype propagated by tech CEOs like Sam Altman and Elon Musk, primarily to raise capital and consolidate power. He contends that AI's true impact is making the rich significantly richer, exacerbating wealth inequality and fostering anxiety among ordinary people. Galloway emphasizes that future valuable skills will shift towards uniquely human attributes such as storytelling, building relationships, and resilience, rather than purely technical competencies. He also raises concerns about the increasing isolation of billionaires from society, the growing inability of young men to cope with rejection, and the dangerous gap between rapid AI advancement and slow governmental regulation, which intertwines technology with power and politics.",
+      "key_highlights": [
+        "AI job apocalypse is marketing hype by tech CEOs for capital",
+        "AI primarily enriches the wealthy, increasing societal anxiety and inequality",
+        "Blindly trusting Big Tech leaders like Altman and Musk is ill-advised",
+        "Storytelling, relationships, and resilience will be future's most valuable skills",
+        "Young men are losing the ability to effectively handle personal rejection",
+        "Billionaires are quietly separating themselves from mainstream society",
+        "Rapid AI development creates a dangerous gap with slow government regulation"
+      ],
+      "topics": [
+        "Technology",
+        "Economics",
+        "Psychology",
+        "Politics"
+      ],
+      "subtopics": [
+        "AI ethics",
+        "Wealth inequality",
+        "Future of work",
+        "Digital loneliness",
+        "Tech regulation",
+        "Generational resilience"
+      ],
+      "quotes": "AI Wasn’t Built For You. The Rich Don’t Need You Anymore!",
+      "processed_at": "2026-05-04T14:59:54.524Z"
+    },
     {
       "id": "jLFG_FZKbks",
       "podcast_id": "diaryofaceo",
@@ -45230,11 +45268,12 @@
     },
     {
       "name": "Steven Bartlett",
-      "title": "Host of The Diary of a CEO, Entrepreneur & Investor",
+      "title": "NYU Stern Professor of Marketing, entrepreneur, and host of The Prof G Pod and Pivot",
       "podcasts": [
         "diaryofaceo"
       ],
       "episode_ids": [
+        "NdU6UdUKaYc",
         "jyCJeglqCe4",
         "WLWbFVKFffM",
         "v9VtjcRaRWc",
@@ -45246,15 +45285,16 @@
         "7zn7WqAyhiU",
         "dZFUv3ai42Q"
       ],
-      "episode_count": 10,
+      "episode_count": 11,
       "topics": [
-        "Finance",
-        "Economics",
         "Technology",
+        "Economics",
+        "Psychology",
+        "Politics",
+        "Finance",
         "Mindset",
         "Science",
         "Health",
-        "Psychology",
         "Productivity",
         "Entrepreneurship",
         "Business",
@@ -63539,6 +63579,7 @@
         "sXa4hU3PlZo",
         "m8h7zojuM5Q",
         "0TKdxOiMaoY",
+        "NdU6UdUKaYc",
         "jLFG_FZKbks",
         "PnpHwhTWw0c",
         "m-nnyNZ0TQ0",
@@ -63964,7 +64005,7 @@
         "iSMpTmibeDw",
         "rKnoNfajUgM"
       ],
-      "episode_count": 427,
+      "episode_count": 428,
       "podcasts": [
         "endgame",
         "diaryofaceo",
@@ -64168,6 +64209,7 @@
         "LDWURusr02k",
         "0cYa4L1CXmQ",
         "G4nOHaqzZKs",
+        "NdU6UdUKaYc",
         "m-nnyNZ0TQ0",
         "EVts3Ui_0AI",
         "Cn8HBj8QAbk",
@@ -64289,7 +64331,7 @@
         "ZFntEFXKDHM",
         "iSMpTmibeDw"
       ],
-      "episode_count": 314,
+      "episode_count": 315,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -64499,6 +64541,7 @@
         "otyrj5SnS4I",
         "ayUZreGysTo",
         "r4AkTmqvWzM",
+        "NdU6UdUKaYc",
         "jLFG_FZKbks",
         "EVts3Ui_0AI",
         "pDKlaJM_vys",
@@ -64561,7 +64604,7 @@
         "pNlfHgHJweQ",
         "5Gk9gIpGvSE"
       ],
-      "episode_count": 259,
+      "episode_count": 260,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -65353,6 +65396,7 @@
         "r4AkTmqvWzM",
         "1QNHJbq9EWM",
         "USd9drb23Ks",
+        "NdU6UdUKaYc",
         "EVts3Ui_0AI",
         "pDKlaJM_vys",
         "7VxeyTfhBM8",
@@ -65465,7 +65509,7 @@
         "OYsYgzzsdT0",
         "VeH7qKZr0WI"
       ],
-      "episode_count": 200,
+      "episode_count": 201,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -71775,10 +71819,53 @@
           "text": "Social Media",
           "count": 1
         }
+      ],
+      "May": [
+        {
+          "text": "Technology",
+          "count": 1
+        },
+        {
+          "text": "Economics",
+          "count": 1
+        },
+        {
+          "text": "Psychology",
+          "count": 1
+        },
+        {
+          "text": "Politics",
+          "count": 1
+        },
+        {
+          "text": "AI ethics",
+          "count": 1
+        },
+        {
+          "text": "Wealth inequality",
+          "count": 1
+        },
+        {
+          "text": "Future of work",
+          "count": 1
+        },
+        {
+          "text": "Digital loneliness",
+          "count": 1
+        },
+        {
+          "text": "Tech regulation",
+          "count": 1
+        },
+        {
+          "text": "Generational resilience",
+          "count": 1
+        }
       ]
     }
   },
   "new_this_week": [
+    "NdU6UdUKaYc",
     "jLFG_FZKbks",
     "gE8hclil1uM",
     "xmkSf5IS-zw"
