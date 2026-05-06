@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-05-05T17:36:24.163Z",
-    "total_episodes": 1223,
-    "total_guests": 1010,
+    "last_updated": "2026-05-06T17:36:16.406Z",
+    "total_episodes": 1224,
+    "total_guests": 1011,
     "total_topics": 266,
     "podcasts_count": 5
   },
@@ -13,7 +13,7 @@
       "host": "Gita Wirjawan",
       "color": "#1D9E75",
       "description": "Long-form intellectual conversations with world-class thought leaders, economists, politicians, and academics hosted by Gita Wirjawan — Indonesian entrepreneur and former Trade Minister.",
-      "total_episodes": 277
+      "total_episodes": 278
     },
     {
       "id": "dwarkesh",
@@ -49,6 +49,49 @@
     }
   ],
   "episodes": [
+    {
+      "id": "7CZQ7hA-2rs",
+      "podcast_id": "endgame",
+      "episode_number": "#267",
+      "title": "Why the Global South Can Still Lead on AI - Randy Goebel | Endgame #267",
+      "published_date": "2026-05-05",
+      "duration_minutes": 49,
+      "url": "https://youtube.com/watch?v=7CZQ7hA-2rs",
+      "thumbnail_url": "https://i.ytimg.com/vi/7CZQ7hA-2rs/maxresdefault.jpg",
+      "guest_name": "Prof. Randy Goebel",
+      "guest_title": "Computer Scientist and Professor of Computing Science, University of Alberta, Canada",
+      "summary": "Randy Goebel, an AI scientist, argues that the current trajectory of large language models (LLMs) is unsustainable due to their massive energy consumption and capital concentration, particularly disadvantaging the Global South. He emphasizes that open knowledge, while susceptible to misuse, is crucial for societal benefit, contrasting the short-term, profit-driven approach of some Western tech giants with the open-source, not-for-profit model seen in initiatives like China's DeepSeek. Goebel stresses the importance of data sovereignty and developing intellectual capital over hardware to redefine AI's future. He advocates for civil society to engage in activism, legislation, and education to guide AI development towards societal good, warning against the \"broad shallow intelligence\" of current LLMs and the risks of further economic elitization.",
+      "key_highlights": [
+        "AI's current trajectory is unsustainable due to massive energy and capital concentration.",
+        "Open knowledge, despite misuse risks, is vital for societal progress and AI development.",
+        "Data sovereignty is essential for nations to control their information and benefit from AI.",
+        "Developing intellectual capital, not just hardware, is key for the Global South's AI future.",
+        "Civil society must drive activism, legislation, and education for responsible AI governance.",
+        "The \"paradox of abundance\" in economic capital and labor extends to intelligence.",
+        "AI's history shows efficiency and knowledge-based approaches eventually surpass brute-force hardware."
+      ],
+      "topics": [
+        "AI",
+        "Technology",
+        "Economics",
+        "Geopolitics",
+        "Ethics",
+        "Education"
+      ],
+      "subtopics": [
+        "AI sustainability",
+        "Energy consumption",
+        "Data sovereignty",
+        "Open science",
+        "Regulatory challenges",
+        "Intellectual capital",
+        "Democratization of AI",
+        "AI ethics",
+        "Global South development"
+      ],
+      "quotes": "It's never been the case on our planet, in our society, that open knowledge could not be misused by those who choose to misuse it.",
+      "processed_at": "2026-05-06T14:32:01.216Z"
+    },
     {
       "id": "NdU6UdUKaYc",
       "podcast_id": "diaryofaceo",
@@ -47912,6 +47955,26 @@
       "is_crossover": false
     },
     {
+      "name": "Prof. Randy Goebel",
+      "title": "Computer Scientist and Professor of Computing Science, University of Alberta, Canada",
+      "podcasts": [
+        "endgame"
+      ],
+      "episode_ids": [
+        "7CZQ7hA-2rs"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "AI",
+        "Technology",
+        "Economics",
+        "Geopolitics",
+        "Ethics",
+        "Education"
+      ],
+      "is_crossover": false
+    },
+    {
       "name": "Professor Tom Ginsburg",
       "title": "Professor of Law at the University of Chicago Law School",
       "podcasts": [
@@ -64015,6 +64078,7 @@
     {
       "name": "Technology",
       "episode_ids": [
+        "7CZQ7hA-2rs",
         "gE8hclil1uM",
         "rsi7cDRUrmE",
         "WNcW2jHGrtk",
@@ -64331,7 +64395,7 @@
         "ZFntEFXKDHM",
         "iSMpTmibeDw"
       ],
-      "episode_count": 315,
+      "episode_count": 316,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -64343,6 +64407,7 @@
     {
       "name": "Economics",
       "episode_ids": [
+        "7CZQ7hA-2rs",
         "rsi7cDRUrmE",
         "WNcW2jHGrtk",
         "Yw1Ivy1VqUo",
@@ -64604,7 +64669,7 @@
         "pNlfHgHJweQ",
         "5Gk9gIpGvSE"
       ],
-      "episode_count": 260,
+      "episode_count": 261,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -66131,6 +66196,7 @@
     {
       "name": "Education",
       "episode_ids": [
+        "7CZQ7hA-2rs",
         "gE8hclil1uM",
         "-dIGHyQGVZM",
         "pRrcMAX-xsY",
@@ -66302,7 +66368,7 @@
         "buarAx_u2qg",
         "DgTjSrrf6GQ"
       ],
-      "episode_count": 170,
+      "episode_count": 171,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -66647,6 +66713,7 @@
     {
       "name": "Geopolitics",
       "episode_ids": [
+        "7CZQ7hA-2rs",
         "gE8hclil1uM",
         "7VAU6ejU3cc",
         "PCYpeJYu9hY",
@@ -66772,7 +66839,7 @@
         "AF8DOS4C2KM",
         "OYsYgzzsdT0"
       ],
-      "episode_count": 124,
+      "episode_count": 125,
       "podcasts": [
         "endgame",
         "diaryofaceo",
@@ -67120,6 +67187,102 @@
       ]
     },
     {
+      "name": "AI",
+      "episode_ids": [
+        "7CZQ7hA-2rs",
+        "WYvXTYKerOU",
+        "xmkSf5IS-zw",
+        "Hrbq66XqtCo",
+        "myP8UjAM1pk",
+        "Q8Fkpi18QXU",
+        "mDG_Hx3BSUE",
+        "n1E9IZfvGMA",
+        "BYXbuik3dgA",
+        "_9V_Hbe-N1A",
+        "aR20FWCCjAs",
+        "8-boBsWcr5A",
+        "lXUZvyajciY",
+        "21EYKqUsPfg",
+        "48pxVdmkMIE",
+        "64lXQP6cs5M",
+        "rYXeQbTuVl0",
+        "WLBsUarvWTw",
+        "htOvH12T7mU",
+        "XLaRfZ4AHn8",
+        "4GLSzuYXh6w",
+        "v0gjI__RyCY",
+        "GT_sXIUJPUo",
+        "XhB3qH_TFds",
+        "a42key59cZQ",
+        "5XsL_7TnfLU",
+        "UakqL6Pj9xo",
+        "zdbVtZIn9IM",
+        "Wo95ob_s_NI",
+        "bc6uFV9CJGg",
+        "UTuuTTnjxMQ",
+        "qTogNUV3CAI",
+        "EY2nbAVZB-k",
+        "9AAhTLa0dT0",
+        "Kc1atfJkiJU",
+        "oDyviiN4NVo",
+        "6yQEA18C-XI",
+        "Nlkk3glap_U",
+        "KUieFuV1fuo",
+        "_kRg-ZP1vQc",
+        "41SUp-TRVlg",
+        "Yf1o0TQzry8",
+        "qcvMjoJdck4",
+        "kNsi5XVDTTM",
+        "UckqpcOu5SY",
+        "M3TUe4zUCKk",
+        "EVwjofV5TgU",
+        "vif8NQcjVf0",
+        "YFjfBk8HI5o",
+        "EV7WhVT270Q",
+        "Qp0rCU49lMs",
+        "-HzgcbRXUK8",
+        "HUkBz-cdB-k",
+        "9V6tWC4CdFQ",
+        "477qF6QNSvc",
+        "tNZnLkRBYA8",
+        "ZPUtA3W-7_I",
+        "_1f-o0nqpEI",
+        "ugvHCXCOmm4",
+        "oFfVt3S51T4",
+        "oFtjKbXKqbg",
+        "e-gwvmhyU7A",
+        "wwhTfyX9J34",
+        "NNr6gPelJ3E",
+        "4iuepdI3wCU",
+        "jvqFAi7vkBc",
+        "5t1vTLU7s40",
+        "8fEEbKJoNbU",
+        "CGiDqhSdLHk",
+        "e8qJsk1j2zE",
+        "Mde2q7GFCrw",
+        "dNrTrx42DGQ",
+        "-hxeDjAxvJ8",
+        "Ff4fRgnuFgQ",
+        "pdJQ8iVTwj8",
+        "PdE-waSx-d8",
+        "cLVdsZ3I5os",
+        "wMavKrA-4do",
+        "VcVfceTsD0A",
+        "AaTRHFaaPG8",
+        "L_Guz73e6fw",
+        "2oHH4aClJQs",
+        "cdiD-9MMpb0",
+        "ZFntEFXKDHM",
+        "xewD1apJNhw"
+      ],
+      "episode_count": 85,
+      "podcasts": [
+        "endgame",
+        "dwarkesh",
+        "lexfridman"
+      ]
+    },
+    {
       "name": "Strategy",
       "episode_ids": [
         "LVgv5rRPZ9s",
@@ -67212,101 +67375,6 @@
       "podcasts": [
         "endgame",
         "viewfromthetop",
-        "lexfridman"
-      ]
-    },
-    {
-      "name": "AI",
-      "episode_ids": [
-        "WYvXTYKerOU",
-        "xmkSf5IS-zw",
-        "Hrbq66XqtCo",
-        "myP8UjAM1pk",
-        "Q8Fkpi18QXU",
-        "mDG_Hx3BSUE",
-        "n1E9IZfvGMA",
-        "BYXbuik3dgA",
-        "_9V_Hbe-N1A",
-        "aR20FWCCjAs",
-        "8-boBsWcr5A",
-        "lXUZvyajciY",
-        "21EYKqUsPfg",
-        "48pxVdmkMIE",
-        "64lXQP6cs5M",
-        "rYXeQbTuVl0",
-        "WLBsUarvWTw",
-        "htOvH12T7mU",
-        "XLaRfZ4AHn8",
-        "4GLSzuYXh6w",
-        "v0gjI__RyCY",
-        "GT_sXIUJPUo",
-        "XhB3qH_TFds",
-        "a42key59cZQ",
-        "5XsL_7TnfLU",
-        "UakqL6Pj9xo",
-        "zdbVtZIn9IM",
-        "Wo95ob_s_NI",
-        "bc6uFV9CJGg",
-        "UTuuTTnjxMQ",
-        "qTogNUV3CAI",
-        "EY2nbAVZB-k",
-        "9AAhTLa0dT0",
-        "Kc1atfJkiJU",
-        "oDyviiN4NVo",
-        "6yQEA18C-XI",
-        "Nlkk3glap_U",
-        "KUieFuV1fuo",
-        "_kRg-ZP1vQc",
-        "41SUp-TRVlg",
-        "Yf1o0TQzry8",
-        "qcvMjoJdck4",
-        "kNsi5XVDTTM",
-        "UckqpcOu5SY",
-        "M3TUe4zUCKk",
-        "EVwjofV5TgU",
-        "vif8NQcjVf0",
-        "YFjfBk8HI5o",
-        "EV7WhVT270Q",
-        "Qp0rCU49lMs",
-        "-HzgcbRXUK8",
-        "HUkBz-cdB-k",
-        "9V6tWC4CdFQ",
-        "477qF6QNSvc",
-        "tNZnLkRBYA8",
-        "ZPUtA3W-7_I",
-        "_1f-o0nqpEI",
-        "ugvHCXCOmm4",
-        "oFfVt3S51T4",
-        "oFtjKbXKqbg",
-        "e-gwvmhyU7A",
-        "wwhTfyX9J34",
-        "NNr6gPelJ3E",
-        "4iuepdI3wCU",
-        "jvqFAi7vkBc",
-        "5t1vTLU7s40",
-        "8fEEbKJoNbU",
-        "CGiDqhSdLHk",
-        "e8qJsk1j2zE",
-        "Mde2q7GFCrw",
-        "dNrTrx42DGQ",
-        "-hxeDjAxvJ8",
-        "Ff4fRgnuFgQ",
-        "pdJQ8iVTwj8",
-        "PdE-waSx-d8",
-        "cLVdsZ3I5os",
-        "wMavKrA-4do",
-        "VcVfceTsD0A",
-        "AaTRHFaaPG8",
-        "L_Guz73e6fw",
-        "2oHH4aClJQs",
-        "cdiD-9MMpb0",
-        "ZFntEFXKDHM",
-        "xewD1apJNhw"
-      ],
-      "episode_count": 84,
-      "podcasts": [
-        "endgame",
-        "dwarkesh",
         "lexfridman"
       ]
     },
@@ -67975,6 +68043,27 @@
       ]
     },
     {
+      "name": "Ethics",
+      "episode_ids": [
+        "7CZQ7hA-2rs",
+        "M9EmHulDAA0",
+        "M3TUe4zUCKk",
+        "--xKsIgv7tE",
+        "1V0bJfqEaa4",
+        "NNr6gPelJ3E",
+        "1X_KdkoGxSs",
+        "f_lRdkH_QoY",
+        "AF8DOS4C2KM",
+        "ZFntEFXKDHM"
+      ],
+      "episode_count": 10,
+      "podcasts": [
+        "endgame",
+        "dwarkesh",
+        "lexfridman"
+      ]
+    },
+    {
       "name": "Media",
       "episode_ids": [
         "xg17vLhT8As",
@@ -68069,26 +68158,6 @@
       "episode_count": 9,
       "podcasts": [
         "endgame",
-        "lexfridman"
-      ]
-    },
-    {
-      "name": "Ethics",
-      "episode_ids": [
-        "M9EmHulDAA0",
-        "M3TUe4zUCKk",
-        "--xKsIgv7tE",
-        "1V0bJfqEaa4",
-        "NNr6gPelJ3E",
-        "1X_KdkoGxSs",
-        "f_lRdkH_QoY",
-        "AF8DOS4C2KM",
-        "ZFntEFXKDHM"
-      ],
-      "episode_count": 9,
-      "podcasts": [
-        "endgame",
-        "dwarkesh",
         "lexfridman"
       ]
     },
@@ -71823,10 +71892,62 @@
       "May": [
         {
           "text": "Technology",
-          "count": 1
+          "count": 2
         },
         {
           "text": "Economics",
+          "count": 2
+        },
+        {
+          "text": "AI ethics",
+          "count": 2
+        },
+        {
+          "text": "AI",
+          "count": 1
+        },
+        {
+          "text": "Geopolitics",
+          "count": 1
+        },
+        {
+          "text": "Ethics",
+          "count": 1
+        },
+        {
+          "text": "Education",
+          "count": 1
+        },
+        {
+          "text": "AI sustainability",
+          "count": 1
+        },
+        {
+          "text": "Energy consumption",
+          "count": 1
+        },
+        {
+          "text": "Data sovereignty",
+          "count": 1
+        },
+        {
+          "text": "Open science",
+          "count": 1
+        },
+        {
+          "text": "Regulatory challenges",
+          "count": 1
+        },
+        {
+          "text": "Intellectual capital",
+          "count": 1
+        },
+        {
+          "text": "Democratization of AI",
+          "count": 1
+        },
+        {
+          "text": "Global South development",
           "count": 1
         },
         {
@@ -71835,10 +71956,6 @@
         },
         {
           "text": "Politics",
-          "count": 1
-        },
-        {
-          "text": "AI ethics",
           "count": 1
         },
         {
@@ -71865,7 +71982,7 @@
     }
   },
   "new_this_week": [
-    "NdU6UdUKaYc",
-    "jLFG_FZKbks"
+    "7CZQ7hA-2rs",
+    "NdU6UdUKaYc"
   ]
 }
