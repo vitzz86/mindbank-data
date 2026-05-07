@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-05-06T17:36:16.406Z",
-    "total_episodes": 1224,
-    "total_guests": 1011,
+    "last_updated": "2026-05-07T17:36:16.106Z",
+    "total_episodes": 1225,
+    "total_guests": 1012,
     "total_topics": 266,
     "podcasts_count": 5
   },
@@ -37,7 +37,7 @@
       "host": "Steven Bartlett",
       "color": "#E8C547",
       "description": "Steven Bartlett sits down with the world's most influential entrepreneurs, scientists, doctors, athletes, and thinkers to uncover the real stories, lessons, and mindsets behind success.",
-      "total_episodes": 493
+      "total_episodes": 494
     },
     {
       "id": "lexfridman",
@@ -49,6 +49,49 @@
     }
   ],
   "episodes": [
+    {
+      "id": "BTJGr78-zyw",
+      "podcast_id": "diaryofaceo",
+      "episode_number": "",
+      "title": "Professor Jiang: World War 3 Has Already Begun, Let Me Explain!",
+      "published_date": "2026-05-06",
+      "duration_minutes": 131,
+      "url": "https://youtube.com/watch?v=BTJGr78-zyw",
+      "thumbnail_url": "https://i.ytimg.com/vi/BTJGr78-zyw/maxresdefault.jpg",
+      "guest_name": "Professor Jiang",
+      "guest_title": "Viral Geopolitical Commentator",
+      "summary": "Professor Jiang argues that World War 3 has already begun, driven by the US's need to maintain its petrodollar-based empire. He details how the US strategy to control global energy and trade routes, including the invasion of Iran, clashes with the counter-strategies of Russia, China, and Iran. He predicts the inevitable collapse of the American Empire within 5-10 years due to overstretch, debt, and global resentment, leading to a new world order characterized by AI surveillance and digital currency. He emphasizes that reality is shaped by our imagination and individual actions, offering hope amidst global conflict.",
+      "key_highlights": [
+        "Trump's 2024 predictions: win, start Iran war, US loses, geopolitical shift",
+        "US invaded Iran to preserve petrodollar dominance after Russian sanctions",
+        "Iran's mountainous terrain and decentralized military negate US 'shock and awe' tactics",
+        "US National Defense Strategy aims to control Western Hemisphere and economically strangle China",
+        "Russia's 'Third Rome' strategy seeks Eurasian alliances to counter US global power",
+        "Israel's 'Greater Israel Project' aims to conquer the Middle East, leveraging US support",
+        "World War 3 is already underway, fueled by clashing national strategies and economic vulnerabilities",
+        "AI surveillance and digital currency will enable unprecedented government control over citizens",
+        "The American Empire is predicted to collapse within 5-10 years due to internal and external pressures",
+        "Individual human creativity and collective action are crucial for navigating future crises"
+      ],
+      "topics": [
+        "Geopolitics",
+        "Politics",
+        "Economics",
+        "Philosophy"
+      ],
+      "subtopics": [
+        "US foreign policy",
+        "Middle East conflict",
+        "Petrodollar",
+        "AI surveillance",
+        "National defense strategy",
+        "Game theory",
+        "Plato's Allegory of the Cave",
+        "Empire collapse"
+      ],
+      "quotes": "Do you want to make money? Then they're controlling you.",
+      "processed_at": "2026-05-07T15:06:45.135Z"
+    },
     {
       "id": "7CZQ7hA-2rs",
       "podcast_id": "endgame",
@@ -54846,6 +54889,24 @@
       "is_crossover": false
     },
     {
+      "name": "Professor Jiang",
+      "title": "Viral Geopolitical Commentator",
+      "podcasts": [
+        "diaryofaceo"
+      ],
+      "episode_ids": [
+        "BTJGr78-zyw"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "Geopolitics",
+        "Politics",
+        "Economics",
+        "Philosophy"
+      ],
+      "is_crossover": false
+    },
+    {
       "name": "Ben Felix",
       "title": "Renowned Investing Expert & Financial Educator at PWL Capital",
       "podcasts": [
@@ -64606,6 +64667,7 @@
         "otyrj5SnS4I",
         "ayUZreGysTo",
         "r4AkTmqvWzM",
+        "BTJGr78-zyw",
         "NdU6UdUKaYc",
         "jLFG_FZKbks",
         "EVts3Ui_0AI",
@@ -64669,7 +64731,7 @@
         "pNlfHgHJweQ",
         "5Gk9gIpGvSE"
       ],
-      "episode_count": 261,
+      "episode_count": 262,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -64793,6 +64855,7 @@
         "otyrj5SnS4I",
         "fTfDZO-p5Fo",
         "r4AkTmqvWzM",
+        "BTJGr78-zyw",
         "9JxaESJIGO0",
         "9uSXOr-AdAU",
         "nrwNSSyKuD4",
@@ -64909,7 +64972,7 @@
         "iZRbD7q1n-U",
         "p3lsYlod5OU"
       ],
-      "episode_count": 228,
+      "episode_count": 229,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -65461,6 +65524,7 @@
         "r4AkTmqvWzM",
         "1QNHJbq9EWM",
         "USd9drb23Ks",
+        "BTJGr78-zyw",
         "NdU6UdUKaYc",
         "EVts3Ui_0AI",
         "pDKlaJM_vys",
@@ -65574,7 +65638,7 @@
         "OYsYgzzsdT0",
         "VeH7qKZr0WI"
       ],
-      "episode_count": 201,
+      "episode_count": 202,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -66799,6 +66863,7 @@
         "yPq0U0DETmo",
         "gydZDZ-7QtY",
         "smCEH662iNs",
+        "BTJGr78-zyw",
         "EVts3Ui_0AI",
         "pDKlaJM_vys",
         "PUO51DoSEqk",
@@ -66839,7 +66904,7 @@
         "AF8DOS4C2KM",
         "OYsYgzzsdT0"
       ],
-      "episode_count": 125,
+      "episode_count": 126,
       "podcasts": [
         "endgame",
         "diaryofaceo",
@@ -71891,11 +71956,19 @@
       ],
       "May": [
         {
-          "text": "Technology",
+          "text": "Economics",
+          "count": 3
+        },
+        {
+          "text": "Geopolitics",
           "count": 2
         },
         {
-          "text": "Economics",
+          "text": "Politics",
+          "count": 2
+        },
+        {
+          "text": "Technology",
           "count": 2
         },
         {
@@ -71903,11 +71976,43 @@
           "count": 2
         },
         {
-          "text": "AI",
+          "text": "Philosophy",
           "count": 1
         },
         {
-          "text": "Geopolitics",
+          "text": "US foreign policy",
+          "count": 1
+        },
+        {
+          "text": "Middle East conflict",
+          "count": 1
+        },
+        {
+          "text": "Petrodollar",
+          "count": 1
+        },
+        {
+          "text": "AI surveillance",
+          "count": 1
+        },
+        {
+          "text": "National defense strategy",
+          "count": 1
+        },
+        {
+          "text": "Game theory",
+          "count": 1
+        },
+        {
+          "text": "Plato's Allegory of the Cave",
+          "count": 1
+        },
+        {
+          "text": "Empire collapse",
+          "count": 1
+        },
+        {
+          "text": "AI",
           "count": 1
         },
         {
@@ -71955,10 +72060,6 @@
           "count": 1
         },
         {
-          "text": "Politics",
-          "count": 1
-        },
-        {
           "text": "Wealth inequality",
           "count": 1
         },
@@ -71973,15 +72074,12 @@
         {
           "text": "Tech regulation",
           "count": 1
-        },
-        {
-          "text": "Generational resilience",
-          "count": 1
         }
       ]
     }
   },
   "new_this_week": [
+    "BTJGr78-zyw",
     "7CZQ7hA-2rs",
     "NdU6UdUKaYc"
   ]
