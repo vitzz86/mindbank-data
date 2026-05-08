@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-05-07T17:36:16.106Z",
-    "total_episodes": 1225,
-    "total_guests": 1012,
+    "last_updated": "2026-05-08T17:36:19.112Z",
+    "total_episodes": 1226,
+    "total_guests": 1013,
     "total_topics": 266,
     "podcasts_count": 5
   },
@@ -45,7 +45,7 @@
       "host": "Lex Fridman",
       "color": "#378ADD",
       "description": "Long-form conversations with scientists, engineers, entrepreneurs, philosophers, and world leaders exploring the nature of intelligence, consciousness, love, and power.",
-      "total_episodes": 173
+      "total_episodes": 174
     }
   ],
   "episodes": [
@@ -134,6 +134,42 @@
       ],
       "quotes": "It's never been the case on our planet, in our society, that open knowledge could not be misused by those who choose to misuse it.",
       "processed_at": "2026-05-06T14:32:01.216Z"
+    },
+    {
+      "id": "nepKKz-MzFM",
+      "podcast_id": "lexfridman",
+      "episode_number": "#496",
+      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "published_date": "2026-05-05",
+      "duration_minutes": 258,
+      "url": "https://youtube.com/watch?v=nepKKz-MzFM",
+      "thumbnail_url": "https://i.ytimg.com/vi/nepKKz-MzFM/maxresdefault.jpg",
+      "guest_name": "Jean-Baptiste Kempf & Kieran Kunhya",
+      "guest_title": "President of VideoLAN & Key Figure behind VLC and FFmpeg (Jean-Baptiste Kempf), Longtime Codec Engineer & FFmpeg Contributor (Kieran Kunhya)",
+      "summary": "FFmpeg and VLC are foundational open-source software systems that power nearly all internet video, developed by a global community of volunteers. The discussion highlights the immense technical complexity of video codecs, compression, and playback, often requiring hand-written assembly code for optimal performance, significantly outperforming C. A core philosophy is making complex multimedia technology accessible and free for everyone, exemplified by VLC's refusal of millions for ad-free operation and FFmpeg's role in democratizing video production. The projects face challenges like maintainer burnout, misaligned incentives from large corporations, and security vulnerabilities, yet thrive on a passion for engineering excellence and a commitment to preserving digital heritage. The future involves expanding multimedia to include new sensory data like haptics and even brainwaves, pushing the boundaries of real-time, ultra-low latency control for applications like robotics.",
+      "key_highlights": [
+        "FFmpeg has 100,000 lines of assembly for all codecs, while dav1d (AV1 decoder) alone has 240,000 lines of handwritten assembly for peak performance",
+        "VLC refused dozens of millions of dollars to remain ad-free and without tracking, prioritizing ethical development and community trust",
+        "FFmpeg and VLC support more operating systems than major tech giants like Microsoft, Google, or Apple, including obscure ones like OS/2 and old iOS versions",
+        "Reverse engineering proprietary codecs involves debugging binary blobs instruction by instruction, often without documentation, to ensure bit-exact playback for archival and compatibility",
+        "The archiving community uses FFmpeg as a \"Rosetta Stone\" to preserve the world's multimedia heritage, developing lossless codecs like FFV1 to ensure long-term playability and prevent data loss"
+      ],
+      "topics": [
+        "Technology",
+        "Engineering",
+        "Open Source",
+        "Software Development"
+      ],
+      "subtopics": [
+        "Video codecs",
+        "Open source licensing",
+        "Assembly programming",
+        "Reverse engineering",
+        "Digital preservation",
+        "Low-latency streaming"
+      ],
+      "quotes": "The important thing is, is your code good? We care about excellent code. We don't care who you are. Like maybe you're a dog. I don't care, right? I don't care where you come from. I need to look at your code.",
+      "processed_at": "2026-05-08T14:31:45.464Z"
     },
     {
       "id": "NdU6UdUKaYc",
@@ -61241,6 +61277,24 @@
       "is_crossover": false
     },
     {
+      "name": "Jean-Baptiste Kempf & Kieran Kunhya",
+      "title": "President of VideoLAN & Key Figure behind VLC and FFmpeg (Jean-Baptiste Kempf), Longtime Codec Engineer & FFmpeg Contributor (Kieran Kunhya)",
+      "podcasts": [
+        "lexfridman"
+      ],
+      "episode_ids": [
+        "nepKKz-MzFM"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "Technology",
+        "Engineering",
+        "Open Source",
+        "Software Development"
+      ],
+      "is_crossover": false
+    },
+    {
       "name": "Lars Brownworth",
       "title": "Historian and Author",
       "podcasts": [
@@ -64402,6 +64456,7 @@
         "tXuPfMXsIyw",
         "yH5YplNDjJM",
         "3lkcGdU7BlY",
+        "nepKKz-MzFM",
         "vif8NQcjVf0",
         "H9rF1CSSh-w",
         "1SJiTwbSI58",
@@ -64456,7 +64511,7 @@
         "ZFntEFXKDHM",
         "iSMpTmibeDw"
       ],
-      "episode_count": 316,
+      "episode_count": 317,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -68129,6 +68184,27 @@
       ]
     },
     {
+      "name": "Engineering",
+      "episode_ids": [
+        "s-9oK_jwuGA",
+        "xmkSf5IS-zw",
+        "nepKKz-MzFM",
+        "pdJQ8iVTwj8",
+        "cLVdsZ3I5os",
+        "OgIo36F6Fsg",
+        "5eK5A_43pkE",
+        "aJoRMFWn2Jk",
+        "cdiD-9MMpb0",
+        "4AWLcxTGZPA"
+      ],
+      "episode_count": 10,
+      "podcasts": [
+        "endgame",
+        "dwarkesh",
+        "lexfridman"
+      ]
+    },
+    {
       "name": "Media",
       "episode_ids": [
         "xg17vLhT8As",
@@ -68165,26 +68241,6 @@
       "podcasts": [
         "endgame",
         "viewfromthetop",
-        "lexfridman"
-      ]
-    },
-    {
-      "name": "Engineering",
-      "episode_ids": [
-        "s-9oK_jwuGA",
-        "xmkSf5IS-zw",
-        "pdJQ8iVTwj8",
-        "cLVdsZ3I5os",
-        "OgIo36F6Fsg",
-        "5eK5A_43pkE",
-        "aJoRMFWn2Jk",
-        "cdiD-9MMpb0",
-        "4AWLcxTGZPA"
-      ],
-      "episode_count": 9,
-      "podcasts": [
-        "endgame",
-        "dwarkesh",
         "lexfridman"
       ]
     },
@@ -68733,6 +68789,18 @@
       ]
     },
     {
+      "name": "Open Source",
+      "episode_ids": [
+        "nepKKz-MzFM",
+        "YFjfBk8HI5o",
+        "5t1vTLU7s40"
+      ],
+      "episode_count": 3,
+      "podcasts": [
+        "lexfridman"
+      ]
+    },
+    {
       "name": "Exploration",
       "episode_ids": [
         "iKx3gAODybU",
@@ -69046,10 +69114,10 @@
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Software Development",
       "episode_ids": [
-        "YFjfBk8HI5o",
-        "oFfVt3S51T4"
+        "nepKKz-MzFM",
+        "-DVyjdw4t9I"
       ],
       "episode_count": 2,
       "podcasts": [
@@ -69057,10 +69125,10 @@
       ]
     },
     {
-      "name": "Open Source",
+      "name": "Software Engineering",
       "episode_ids": [
         "YFjfBk8HI5o",
-        "5t1vTLU7s40"
+        "oFfVt3S51T4"
       ],
       "episode_count": 2,
       "podcasts": [
@@ -70576,16 +70644,6 @@
       ]
     },
     {
-      "name": "Software Development",
-      "episode_ids": [
-        "-DVyjdw4t9I"
-      ],
-      "episode_count": 1,
-      "podcasts": [
-        "lexfridman"
-      ]
-    },
-    {
       "name": "Cybercrime",
       "episode_ids": [
         "4KiO8GRgwDk"
@@ -71960,15 +72018,15 @@
           "count": 3
         },
         {
+          "text": "Technology",
+          "count": 3
+        },
+        {
           "text": "Geopolitics",
           "count": 2
         },
         {
           "text": "Politics",
-          "count": 2
-        },
-        {
-          "text": "Technology",
           "count": 2
         },
         {
@@ -72056,23 +72114,23 @@
           "count": 1
         },
         {
-          "text": "Psychology",
+          "text": "Engineering",
           "count": 1
         },
         {
-          "text": "Wealth inequality",
+          "text": "Open Source",
           "count": 1
         },
         {
-          "text": "Future of work",
+          "text": "Software Development",
           "count": 1
         },
         {
-          "text": "Digital loneliness",
+          "text": "Video codecs",
           "count": 1
         },
         {
-          "text": "Tech regulation",
+          "text": "Open source licensing",
           "count": 1
         }
       ]
@@ -72081,6 +72139,7 @@
   "new_this_week": [
     "BTJGr78-zyw",
     "7CZQ7hA-2rs",
+    "nepKKz-MzFM",
     "NdU6UdUKaYc"
   ]
 }
