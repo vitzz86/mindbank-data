@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-05-08T17:36:19.112Z",
-    "total_episodes": 1226,
-    "total_guests": 1013,
+    "last_updated": "2026-05-09T17:36:13.637Z",
+    "total_episodes": 1227,
+    "total_guests": 1014,
     "total_topics": 266,
     "podcasts_count": 5
   },
@@ -29,7 +29,7 @@
       "host": "Stanford GSB",
       "color": "#D85A30",
       "description": "The Stanford Graduate School of Business dean's speaker series — world-class CEOs, founders, and investors in conversation with MBA students on leadership, values, and career lessons.",
-      "total_episodes": 163
+      "total_episodes": 164
     },
     {
       "id": "diaryofaceo",
@@ -49,6 +49,44 @@
     }
   ],
   "episodes": [
+    {
+      "id": "FDjrDeIZAk4",
+      "podcast_id": "viewfromthetop",
+      "episode_number": "",
+      "title": "Daniela Amodei, Co-Founder and President of Anthropic: Building AI the Right Way",
+      "published_date": "2026-05-07",
+      "duration_minutes": 48,
+      "url": "https://youtube.com/watch?v=FDjrDeIZAk4",
+      "thumbnail_url": "https://i.ytimg.com/vi/FDjrDeIZAk4/maxresdefault.jpg",
+      "guest_name": "Daniela Amodei",
+      "guest_title": "Co-Founder and President of Anthropic",
+      "summary": "Daniela Amodei, Co-Founder and President of Anthropic, shared her unconventional journey from an English literature background to co-founding a leading AI company, emphasizing a vision of \"radical responsibility.\" She explained that AI safety means taking radical responsibility for the technology's impact, learning from past tech failures, and that commercial success and safety are often aligned, though time-to-market pressures can create tension. Amodei highlighted that AI will transform jobs by complementing human skills, rather than solely replacing them, and noted a surprising optimism about AI in the Global South compared to high-income countries. She stressed the importance of transparency, research, and nuanced government regulation to prepare society for the AI transition, warning against the risk of humans disengaging their critical thinking by over-delegating to AI.",
+      "key_highlights": [
+        "Unconventional career path from English literature to AI co-founder",
+        "Anthropic founded on \"radical responsibility\" and public benefit corporation model",
+        "AI safety defined as taking radical responsibility for technology's impact",
+        "Commercial success and AI safety are largely aligned, but time-to-market creates tension",
+        "AI will transform jobs, creating new roles and complementing human skills",
+        "Global South shows greater optimism about AI than high-income countries",
+        "Risk of humans disengaging critical thinking by over-delegating to AI"
+      ],
+      "topics": [
+        "AI",
+        "Leadership",
+        "Entrepreneurship",
+        "Technology"
+      ],
+      "subtopics": [
+        "AI Safety",
+        "Career Transition",
+        "Co-founder Dynamics",
+        "Future of Work",
+        "Government Regulation",
+        "Data Privacy"
+      ],
+      "quotes": "AI safety is just taking a form of like radical responsibility for the technology that we're developing.",
+      "processed_at": "2026-05-09T14:58:35.189Z"
+    },
     {
       "id": "BTJGr78-zyw",
       "podcast_id": "diaryofaceo",
@@ -52825,6 +52863,24 @@
       "is_crossover": false
     },
     {
+      "name": "Daniela Amodei",
+      "title": "Co-Founder and President of Anthropic",
+      "podcasts": [
+        "viewfromthetop"
+      ],
+      "episode_ids": [
+        "FDjrDeIZAk4"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "AI",
+        "Leadership",
+        "Entrepreneurship",
+        "Technology"
+      ],
+      "is_crossover": false
+    },
+    {
       "name": "David Rubenstein",
       "title": "Co-Founder and Chairman, The Carlyle Group",
       "podcasts": [
@@ -64365,6 +64421,7 @@
         "Uy5fvwdw8x4",
         "Ayewh_O0LPQ",
         "otyrj5SnS4I",
+        "FDjrDeIZAk4",
         "nm1vf3AQhAM",
         "GuF14oKon8A",
         "C4GM7_Cf0N4",
@@ -64511,7 +64568,7 @@
         "ZFntEFXKDHM",
         "iSMpTmibeDw"
       ],
-      "episode_count": 317,
+      "episode_count": 318,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -65054,6 +65111,7 @@
         "6EAQVSizCIE",
         "qk5ZtEgRtqs",
         "RVZ9PAbNEZw",
+        "FDjrDeIZAk4",
         "myf3PhTh1SY",
         "Yo3Vwx_Ln8M",
         "dbV1sMfv9TQ",
@@ -65256,7 +65314,7 @@
         "8EguLJgkc54",
         "XiCxj-bXu5M"
       ],
-      "episode_count": 217,
+      "episode_count": 218,
       "podcasts": [
         "endgame",
         "viewfromthetop",
@@ -65721,6 +65779,7 @@
         "cWtvBhUbsng",
         "gC0QgLw2n3U",
         "Gi-OhRap7jY",
+        "FDjrDeIZAk4",
         "dbV1sMfv9TQ",
         "nm1vf3AQhAM",
         "bbB5DLuw31Q",
@@ -65906,7 +65965,7 @@
         "Z3_PwvvfxIU",
         "kFQUDCgMjRc"
       ],
-      "episode_count": 200,
+      "episode_count": 201,
       "podcasts": [
         "endgame",
         "viewfromthetop",
@@ -67356,6 +67415,7 @@
         "UckqpcOu5SY",
         "M3TUe4zUCKk",
         "EVwjofV5TgU",
+        "FDjrDeIZAk4",
         "vif8NQcjVf0",
         "YFjfBk8HI5o",
         "EV7WhVT270Q",
@@ -67395,10 +67455,11 @@
         "ZFntEFXKDHM",
         "xewD1apJNhw"
       ],
-      "episode_count": 85,
+      "episode_count": 86,
       "podcasts": [
         "endgame",
         "dwarkesh",
+        "viewfromthetop",
         "lexfridman"
       ]
     },
@@ -72014,12 +72075,16 @@
       ],
       "May": [
         {
+          "text": "Technology",
+          "count": 4
+        },
+        {
           "text": "Economics",
           "count": 3
         },
         {
-          "text": "Technology",
-          "count": 3
+          "text": "AI",
+          "count": 2
         },
         {
           "text": "Geopolitics",
@@ -72032,6 +72097,38 @@
         {
           "text": "AI ethics",
           "count": 2
+        },
+        {
+          "text": "Leadership",
+          "count": 1
+        },
+        {
+          "text": "Entrepreneurship",
+          "count": 1
+        },
+        {
+          "text": "AI Safety",
+          "count": 1
+        },
+        {
+          "text": "Career Transition",
+          "count": 1
+        },
+        {
+          "text": "Co-founder Dynamics",
+          "count": 1
+        },
+        {
+          "text": "Future of Work",
+          "count": 1
+        },
+        {
+          "text": "Government Regulation",
+          "count": 1
+        },
+        {
+          "text": "Data Privacy",
+          "count": 1
         },
         {
           "text": "Philosophy",
@@ -72070,10 +72167,6 @@
           "count": 1
         },
         {
-          "text": "AI",
-          "count": 1
-        },
-        {
           "text": "Ethics",
           "count": 1
         },
@@ -72100,43 +72193,12 @@
         {
           "text": "Regulatory challenges",
           "count": 1
-        },
-        {
-          "text": "Intellectual capital",
-          "count": 1
-        },
-        {
-          "text": "Democratization of AI",
-          "count": 1
-        },
-        {
-          "text": "Global South development",
-          "count": 1
-        },
-        {
-          "text": "Engineering",
-          "count": 1
-        },
-        {
-          "text": "Open Source",
-          "count": 1
-        },
-        {
-          "text": "Software Development",
-          "count": 1
-        },
-        {
-          "text": "Video codecs",
-          "count": 1
-        },
-        {
-          "text": "Open source licensing",
-          "count": 1
         }
       ]
     }
   },
   "new_this_week": [
+    "FDjrDeIZAk4",
     "BTJGr78-zyw",
     "7CZQ7hA-2rs",
     "nepKKz-MzFM",
