@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-10T17:36:14.639Z",
-    "total_episodes": 1227,
+    "last_updated": "2026-05-11T17:36:15.473Z",
+    "total_episodes": 1229,
     "total_guests": 1014,
     "total_topics": 266,
     "podcasts_count": 5
@@ -21,7 +21,7 @@
       "host": "Dwarkesh Patel",
       "color": "#7F77DD",
       "description": "Deeply researched, intellectually rigorous long-form interviews with world-leading scientists, historians, economists, and AI researchers.",
-      "total_episodes": 117
+      "total_episodes": 118
     },
     {
       "id": "viewfromthetop",
@@ -37,7 +37,7 @@
       "host": "Steven Bartlett",
       "color": "#E8C547",
       "description": "Steven Bartlett sits down with the world's most influential entrepreneurs, scientists, doctors, athletes, and thinkers to uncover the real stories, lessons, and mindsets behind success.",
-      "total_episodes": 494
+      "total_episodes": 495
     },
     {
       "id": "lexfridman",
@@ -49,6 +49,73 @@
     }
   ],
   "episodes": [
+    {
+      "id": "kwEtOyaFhCA",
+      "podcast_id": "diaryofaceo",
+      "episode_number": "",
+      "title": "Pulitzer Prize Historian: You Won't Notice Until It’s Too Late - Anne Applebaum",
+      "published_date": "2026-05-10",
+      "duration_minutes": 108,
+      "url": "https://youtube.com/watch?v=kwEtOyaFhCA",
+      "thumbnail_url": "https://i.ytimg.com/vi/kwEtOyaFhCA/maxresdefault.jpg",
+      "guest_name": "Steven Bartlett",
+      "guest_title": "Award-Winning Historian & Political Writer, Staff Writer at The Atlantic, Senior Fellow at Johns Hopkins School of Advanced International Studies (SAIS) and Agora Institute",
+      "summary": "Anne Applebaum argues that American democracy is in decline, shifting from a 'liberal democracy' to an 'electoral democracy,' a change that mirrors patterns seen in other countries. She outlines five tactics autocratic leaders use to dismantle democracy: corruption, manipulating elections, politicizing personnel, controlling information, and monopolizing power. Applebaum highlights the dangers of a kleptocratic system where political decisions are made for personal gain, citing examples like Trump's increased net worth and Jared Kushner's Saudi investment. She emphasizes that democracies don't typically end with violent coups, but rather through the gradual erosion of independent institutions by legitimately elected leaders, leading to a global reordering as countries 'hedge' against US instability.",
+      "key_highlights": [
+        "American democracy is declining, shifting from liberal to electoral democracy.",
+        "Autocratic leaders use 5 tactics: corruption, elections, personnel, information, and power.",
+        "Presidents running businesses in office creates conflicts of interest, prioritizing personal gain.",
+        "Democracies require neutral institutions like independent courts, electoral commissions, and media.",
+        "The US's democratic decline influences other nations, leading to global hedging and new alliances.",
+        "Autocrats exploit human need for stability and hierarchy, offering false security and suppressing dissent.",
+        "The absence of the rule of law means the person in power dictates what is legal or illegal."
+      ],
+      "topics": [
+        "Geopolitics"
+      ],
+      "subtopics": [
+        "Democratic decline"
+      ],
+      "quotes": "Most people think democracies end with tanks in the street or somebody shooting up the presidential palace, but actually in the modern world they mostly end because someone who is legitimately elected begins to take apart the system.",
+      "processed_at": "2026-05-11T14:59:06.228Z"
+    },
+    {
+      "id": "sRKBGVFVYAw",
+      "podcast_id": "dwarkesh",
+      "episode_number": "",
+      "title": "David Reich – Bronze Age shock, the Neanderthal puzzle, & the sudden spread of farming",
+      "published_date": "2026-05-07",
+      "duration_minutes": 134,
+      "url": "https://youtube.com/watch?v=sRKBGVFVYAw",
+      "thumbnail_url": "https://i.ytimg.com/vi/sRKBGVFVYAw/maxresdefault.jpg",
+      "guest_name": "David Reich",
+      "guest_title": "Professor of ancient DNA at Harvard University",
+      "summary": "David Reich's new research overturns the long-standing consensus that natural selection has been quiescent in humans since the agricultural revolution, revealing it has actually sped up, particularly during the Bronze Age. His team, using scaled ancient DNA sequencing and a novel statistical method, found rampant gene frequency changes for traits like immune function, body fat, and cognitive performance. Notably, the genetic predictor of cognitive performance increased by roughly a full standard deviation between 4,000 and 2,000 years ago. Reich also proposes a 'heretical model' for Neanderthals, suggesting they are genetically-swamped modern humans who interbred with local archaic populations after an expansion from the Caucasus, sharing cultural ancestry with modern humans who mixed with different archaic Africans. This breakthrough was enabled by a massive increase in ancient DNA data and a new statistical approach to discern true selection signals from genetic drift and migrations.",
+      "key_highlights": [
+        "Natural selection accelerated, not quiescent, since agricultural revolution",
+        "Bronze Age saw 'bonkers' gene frequency changes for immunity, body fat, intelligence",
+        "Cognitive performance genetic predictors increased one standard deviation, 4-2k years ago",
+        "Neanderthals proposed as genetically-swamped modern humans, not separate lineage",
+        "New statistical method detects subtle, real selection signals amidst genetic drift",
+        "Massive increase in ancient DNA data (20k+ sequences) enabled these discoveries",
+        "Validation method uses trait associations to confirm selection signals' reality"
+      ],
+      "topics": [
+        "Biology",
+        "History",
+        "Science"
+      ],
+      "subtopics": [
+        "Ancient DNA",
+        "Natural Selection",
+        "Human Evolution",
+        "Neanderthals",
+        "Population Genetics",
+        "Bronze Age"
+      ],
+      "quotes": "Instead of being quiescent, natural selection is everywhere.",
+      "processed_at": "2026-05-11T14:47:44.334Z"
+    },
     {
       "id": "FDjrDeIZAk4",
       "podcast_id": "viewfromthetop",
@@ -45428,11 +45495,12 @@
     },
     {
       "name": "Steven Bartlett",
-      "title": "NYU Stern Professor of Marketing, entrepreneur, and host of The Prof G Pod and Pivot",
+      "title": "Award-Winning Historian & Political Writer, Staff Writer at The Atlantic, Senior Fellow at Johns Hopkins School of Advanced International Studies (SAIS) and Agora Institute",
       "podcasts": [
         "diaryofaceo"
       ],
       "episode_ids": [
+        "kwEtOyaFhCA",
         "NdU6UdUKaYc",
         "jyCJeglqCe4",
         "WLWbFVKFffM",
@@ -45445,8 +45513,9 @@
         "7zn7WqAyhiU",
         "dZFUv3ai42Q"
       ],
-      "episode_count": 11,
+      "episode_count": 12,
       "topics": [
+        "Geopolitics",
         "Technology",
         "Economics",
         "Psychology",
@@ -46806,6 +46875,24 @@
         "Philosophy",
         "Politics",
         "Culture"
+      ],
+      "is_crossover": false
+    },
+    {
+      "name": "David Reich",
+      "title": "Professor of ancient DNA at Harvard University",
+      "podcasts": [
+        "dwarkesh"
+      ],
+      "episode_ids": [
+        "sRKBGVFVYAw",
+        "Uj6skZIxPuI"
+      ],
+      "episode_count": 2,
+      "topics": [
+        "Biology",
+        "History",
+        "Science"
       ],
       "is_crossover": false
     },
@@ -51876,23 +51963,6 @@
         "Economics",
         "Politics",
         "Technology"
-      ],
-      "is_crossover": false
-    },
-    {
-      "name": "David Reich",
-      "title": "Geneticist, Harvard University",
-      "podcasts": [
-        "dwarkesh"
-      ],
-      "episode_ids": [
-        "Uj6skZIxPuI"
-      ],
-      "episode_count": 1,
-      "topics": [
-        "History",
-        "Science",
-        "Biology"
       ],
       "is_crossover": false
     },
@@ -65984,6 +66054,7 @@
         "N_q4Ev8PMq0",
         "KX81rmSiWy8",
         "M9EmHulDAA0",
+        "sRKBGVFVYAw",
         "myP8UjAM1pk",
         "Q8Fkpi18QXU",
         "_9V_Hbe-N1A",
@@ -66170,7 +66241,7 @@
         "uZN5xjoS6TU",
         "aJoRMFWn2Jk"
       ],
-      "episode_count": 193,
+      "episode_count": 194,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -66977,6 +67048,7 @@
         "yPq0U0DETmo",
         "gydZDZ-7QtY",
         "smCEH662iNs",
+        "kwEtOyaFhCA",
         "BTJGr78-zyw",
         "EVts3Ui_0AI",
         "pDKlaJM_vys",
@@ -67018,7 +67090,7 @@
         "AF8DOS4C2KM",
         "OYsYgzzsdT0"
       ],
-      "episode_count": 126,
+      "episode_count": 127,
       "podcasts": [
         "endgame",
         "diaryofaceo",
@@ -67154,6 +67226,113 @@
       ]
     },
     {
+      "name": "History",
+      "episode_ids": [
+        "iF9z1G-6i-Q",
+        "g7VjLjNdJEo",
+        "DTz5X5NVSdk",
+        "woPxrqw4-qY",
+        "_A6x_21ojD0",
+        "VHJwO13EqWE",
+        "YvjuMn5XvZ8",
+        "N_B6Q83fIg4",
+        "rc5MI1qSMBU",
+        "LGM3bo1DVNs",
+        "wSuOQMpH30Q",
+        "Wdo5VRuZd5k",
+        "f5xkLvq-MUw",
+        "bh8l-nPH19w",
+        "kShyEaE5MGk",
+        "_zbTxCbfidk",
+        "m8h7zojuM5Q",
+        "cF5-RYeSPjE",
+        "OQ4KdWQmRGQ",
+        "5IAhCjKqE0I",
+        "J73zR3ZkFIE",
+        "YxJVuSt58mU",
+        "3Zsw5RTbQi0",
+        "1PExyeyiTUQ",
+        "9fxcxfSvQ-o",
+        "Uyj70Aqy5y8",
+        "XnleP7NpsRQ",
+        "smCEH662iNs",
+        "sRKBGVFVYAw",
+        "myP8UjAM1pk",
+        "PAIhVfGbREA",
+        "FdkpWrlR5zg",
+        "RH_ycZYH8-s",
+        "SdMgOXfSBQw",
+        "KxIeJjEGLdo",
+        "YMfd3EoHfPI",
+        "qb644F-iE_s",
+        "P2b4TjQa4gk",
+        "QFzgSmN8Ng8",
+        "TcfhrThp1OU",
+        "4l3Sa8ImGFQ",
+        "Znk5QINe01A",
+        "LbkO84MsmyM",
+        "GT_sXIUJPUo",
+        "sveBcfz0fHk",
+        "Uj6skZIxPuI",
+        "EY2nbAVZB-k",
+        "-VeZp2d7mDs",
+        "tM9ZMYUYhTk",
+        "3i7ym_Qh7BA",
+        "YcVSgYz5SJ8",
+        "KUieFuV1fuo",
+        "tMdMiYsfHKo",
+        "qcvMjoJdck4",
+        "ZruyslAe26g",
+        "m3oM69YHLeo",
+        "9P2rk0Gtd0I",
+        "MpttoDJ3pH8",
+        "Gumo8zmgLqM",
+        "1Z35PqPQU2M",
+        "SMEfl5maB8k",
+        "E65CHSV6Ads",
+        "faZI6OBOopE",
+        "rsJxlybPByM",
+        "sh04dEtBAoE",
+        "OEcOUgXvz7g",
+        "QyWs-XomCk0",
+        "yYtyKmPZBto",
+        "otyrj5SnS4I",
+        "ayUZreGysTo",
+        "iKx3gAODybU",
+        "SvKv7D4pBjE",
+        "jdCKiEJpwf4",
+        "U1H1Ob7jk8Q",
+        "cp1lprZUQcE",
+        "3W5FWUN5w2Q",
+        "Rz-4ulRKnz4",
+        "9xz8i90Hp2A",
+        "abd5hguWKz0",
+        "s1oTH4Sjvzg",
+        "DyoVVSggPjY",
+        "GXgGR8KxFao",
+        "1X_KdkoGxSs",
+        "qa-wl8_wpZA",
+        "2yHr9DPnSzk",
+        "34wA_bdG6QQ",
+        "Mde2q7GFCrw",
+        "XpC7SVDXimg",
+        "NPtBkw5uD-0",
+        "8TmV6KEYkK0",
+        "iFXGpKf9VBU",
+        "GvX-heRWFfA",
+        "pNlfHgHJweQ",
+        "NUkXluf3OYA",
+        "vNhSCF9i8Qs",
+        "OYsYgzzsdT0"
+      ],
+      "episode_count": 96,
+      "podcasts": [
+        "endgame",
+        "dwarkesh",
+        "lexfridman"
+      ]
+    },
+    {
       "name": "Career",
       "episode_ids": [
         "Rr4DoSV9mrk",
@@ -67257,112 +67436,6 @@
       "podcasts": [
         "endgame",
         "viewfromthetop"
-      ]
-    },
-    {
-      "name": "History",
-      "episode_ids": [
-        "iF9z1G-6i-Q",
-        "g7VjLjNdJEo",
-        "DTz5X5NVSdk",
-        "woPxrqw4-qY",
-        "_A6x_21ojD0",
-        "VHJwO13EqWE",
-        "YvjuMn5XvZ8",
-        "N_B6Q83fIg4",
-        "rc5MI1qSMBU",
-        "LGM3bo1DVNs",
-        "wSuOQMpH30Q",
-        "Wdo5VRuZd5k",
-        "f5xkLvq-MUw",
-        "bh8l-nPH19w",
-        "kShyEaE5MGk",
-        "_zbTxCbfidk",
-        "m8h7zojuM5Q",
-        "cF5-RYeSPjE",
-        "OQ4KdWQmRGQ",
-        "5IAhCjKqE0I",
-        "J73zR3ZkFIE",
-        "YxJVuSt58mU",
-        "3Zsw5RTbQi0",
-        "1PExyeyiTUQ",
-        "9fxcxfSvQ-o",
-        "Uyj70Aqy5y8",
-        "XnleP7NpsRQ",
-        "smCEH662iNs",
-        "myP8UjAM1pk",
-        "PAIhVfGbREA",
-        "FdkpWrlR5zg",
-        "RH_ycZYH8-s",
-        "SdMgOXfSBQw",
-        "KxIeJjEGLdo",
-        "YMfd3EoHfPI",
-        "qb644F-iE_s",
-        "P2b4TjQa4gk",
-        "QFzgSmN8Ng8",
-        "TcfhrThp1OU",
-        "4l3Sa8ImGFQ",
-        "Znk5QINe01A",
-        "LbkO84MsmyM",
-        "GT_sXIUJPUo",
-        "sveBcfz0fHk",
-        "Uj6skZIxPuI",
-        "EY2nbAVZB-k",
-        "-VeZp2d7mDs",
-        "tM9ZMYUYhTk",
-        "3i7ym_Qh7BA",
-        "YcVSgYz5SJ8",
-        "KUieFuV1fuo",
-        "tMdMiYsfHKo",
-        "qcvMjoJdck4",
-        "ZruyslAe26g",
-        "m3oM69YHLeo",
-        "9P2rk0Gtd0I",
-        "MpttoDJ3pH8",
-        "Gumo8zmgLqM",
-        "1Z35PqPQU2M",
-        "SMEfl5maB8k",
-        "E65CHSV6Ads",
-        "faZI6OBOopE",
-        "rsJxlybPByM",
-        "sh04dEtBAoE",
-        "OEcOUgXvz7g",
-        "QyWs-XomCk0",
-        "yYtyKmPZBto",
-        "otyrj5SnS4I",
-        "ayUZreGysTo",
-        "iKx3gAODybU",
-        "SvKv7D4pBjE",
-        "jdCKiEJpwf4",
-        "U1H1Ob7jk8Q",
-        "cp1lprZUQcE",
-        "3W5FWUN5w2Q",
-        "Rz-4ulRKnz4",
-        "9xz8i90Hp2A",
-        "abd5hguWKz0",
-        "s1oTH4Sjvzg",
-        "DyoVVSggPjY",
-        "GXgGR8KxFao",
-        "1X_KdkoGxSs",
-        "qa-wl8_wpZA",
-        "2yHr9DPnSzk",
-        "34wA_bdG6QQ",
-        "Mde2q7GFCrw",
-        "XpC7SVDXimg",
-        "NPtBkw5uD-0",
-        "8TmV6KEYkK0",
-        "iFXGpKf9VBU",
-        "GvX-heRWFfA",
-        "pNlfHgHJweQ",
-        "NUkXluf3OYA",
-        "vNhSCF9i8Qs",
-        "OYsYgzzsdT0"
-      ],
-      "episode_count": 95,
-      "podcasts": [
-        "endgame",
-        "dwarkesh",
-        "lexfridman"
       ]
     },
     {
@@ -67957,6 +68030,7 @@
       "name": "Biology",
       "episode_ids": [
         "Pg4w-rwTCXE",
+        "sRKBGVFVYAw",
         "_9V_Hbe-N1A",
         "0GMWxuYuxJI",
         "XCLODgdCmKA",
@@ -67978,7 +68052,7 @@
         "yyBosLx7bbM",
         "p3lsYlod5OU"
       ],
-      "episode_count": 21,
+      "episode_count": 22,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -72079,15 +72153,15 @@
           "count": 4
         },
         {
+          "text": "Geopolitics",
+          "count": 3
+        },
+        {
           "text": "Economics",
           "count": 3
         },
         {
           "text": "AI",
-          "count": 2
-        },
-        {
-          "text": "Geopolitics",
           "count": 2
         },
         {
@@ -72097,6 +72171,46 @@
         {
           "text": "AI ethics",
           "count": 2
+        },
+        {
+          "text": "Democratic decline",
+          "count": 1
+        },
+        {
+          "text": "Biology",
+          "count": 1
+        },
+        {
+          "text": "History",
+          "count": 1
+        },
+        {
+          "text": "Science",
+          "count": 1
+        },
+        {
+          "text": "Ancient DNA",
+          "count": 1
+        },
+        {
+          "text": "Natural Selection",
+          "count": 1
+        },
+        {
+          "text": "Human Evolution",
+          "count": 1
+        },
+        {
+          "text": "Neanderthals",
+          "count": 1
+        },
+        {
+          "text": "Population Genetics",
+          "count": 1
+        },
+        {
+          "text": "Bronze Age",
+          "count": 1
         },
         {
           "text": "Leadership",
@@ -72153,51 +72267,13 @@
         {
           "text": "National defense strategy",
           "count": 1
-        },
-        {
-          "text": "Game theory",
-          "count": 1
-        },
-        {
-          "text": "Plato's Allegory of the Cave",
-          "count": 1
-        },
-        {
-          "text": "Empire collapse",
-          "count": 1
-        },
-        {
-          "text": "Ethics",
-          "count": 1
-        },
-        {
-          "text": "Education",
-          "count": 1
-        },
-        {
-          "text": "AI sustainability",
-          "count": 1
-        },
-        {
-          "text": "Energy consumption",
-          "count": 1
-        },
-        {
-          "text": "Data sovereignty",
-          "count": 1
-        },
-        {
-          "text": "Open science",
-          "count": 1
-        },
-        {
-          "text": "Regulatory challenges",
-          "count": 1
         }
       ]
     }
   },
   "new_this_week": [
+    "kwEtOyaFhCA",
+    "sRKBGVFVYAw",
     "FDjrDeIZAk4",
     "BTJGr78-zyw",
     "7CZQ7hA-2rs",
