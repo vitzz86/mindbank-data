@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-05-13T17:36:15.172Z",
-    "total_episodes": 1229,
-    "total_guests": 1014,
+    "last_updated": "2026-05-14T17:36:14.706Z",
+    "total_episodes": 1230,
+    "total_guests": 1015,
     "total_topics": 266,
     "podcasts_count": 5
   },
@@ -37,7 +37,7 @@
       "host": "Steven Bartlett",
       "color": "#E8C547",
       "description": "Steven Bartlett sits down with the world's most influential entrepreneurs, scientists, doctors, athletes, and thinkers to uncover the real stories, lessons, and mindsets behind success.",
-      "total_episodes": 495
+      "total_episodes": 496
     },
     {
       "id": "lexfridman",
@@ -49,6 +49,45 @@
     }
   ],
   "episodes": [
+    {
+      "id": "V-z0k5xu1hM",
+      "podcast_id": "diaryofaceo",
+      "episode_number": "",
+      "title": "UFO Roundtable: CIA Physicist Proves Aliens Exist!",
+      "published_date": "2026-05-13",
+      "duration_minutes": 88,
+      "url": "https://youtube.com/watch?v=V-z0k5xu1hM",
+      "thumbnail_url": "https://i.ytimg.com/vi/V-z0k5xu1hM/maxresdefault.jpg",
+      "guest_name": "Dr. Hal Puthoff & Dan Farah",
+      "guest_title": "UAP Documentarian and Producer & World-leading Physicist and U.S. Government UAP Expert",
+      "summary": "The episode features UAP documentarian Dan Farah and physicist Dr. Hal Puthoff, who assert an 80-year government cover-up of non-human intelligent life (NHI) and Unidentified Anomalous Phenomena (UAP). They claim the U.S. and other nations are in a secret race to reverse-engineer NHI technology from recovered crashed crafts, some containing non-human bodies. Evidence includes UAPs interfering with nuclear sites and the scientific possibility of faster-than-light travel through spacetime modification. They discuss the government's historical creation of a 'stigma' around UAP research and recent declassification efforts.",
+      "key_highlights": [
+        "An 80-year government cover-up of non-human intelligent life and UAPs.",
+        "U.S. and other nations secretly race to reverse-engineer NHI technology.",
+        "Crashed UAP crafts, some with non-human bodies, have been recovered.",
+        "UAPs have demonstrated ability to turn nuclear missiles on and off.",
+        "Scientific theories suggest spacetime modification for interstellar travel.",
+        "Government created a 'stigma' to suppress public and scientific UAP inquiry.",
+        "Recent declassification of UAP evidence was initiated by the Trump administration."
+      ],
+      "topics": [
+        "Science",
+        "Geopolitics",
+        "Politics",
+        "Technology"
+      ],
+      "subtopics": [
+        "UFOs/UAPs",
+        "Government secrecy",
+        "Non-human intelligence",
+        "Reverse-engineering technology",
+        "Nuclear site interference",
+        "Remote viewing",
+        "Spacetime modification"
+      ],
+      "quotes": "The evidence is absolutely clear that there is some form of life with advanced technology.",
+      "processed_at": "2026-05-14T14:57:16.733Z"
+    },
     {
       "id": "kwEtOyaFhCA",
       "podcast_id": "diaryofaceo",
@@ -55051,6 +55090,24 @@
       "is_crossover": false
     },
     {
+      "name": "Dr. Hal Puthoff & Dan Farah",
+      "title": "UAP Documentarian and Producer & World-leading Physicist and U.S. Government UAP Expert",
+      "podcasts": [
+        "diaryofaceo"
+      ],
+      "episode_ids": [
+        "V-z0k5xu1hM"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "Science",
+        "Geopolitics",
+        "Politics",
+        "Technology"
+      ],
+      "is_crossover": false
+    },
+    {
       "name": "Professor Jiang",
       "title": "Viral Geopolitical Commentator",
       "podcasts": [
@@ -64515,6 +64572,7 @@
         "LDWURusr02k",
         "0cYa4L1CXmQ",
         "G4nOHaqzZKs",
+        "V-z0k5xu1hM",
         "NdU6UdUKaYc",
         "m-nnyNZ0TQ0",
         "EVts3Ui_0AI",
@@ -64638,7 +64696,7 @@
         "ZFntEFXKDHM",
         "iSMpTmibeDw"
       ],
-      "episode_count": 318,
+      "episode_count": 319,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -65707,6 +65765,7 @@
         "r4AkTmqvWzM",
         "1QNHJbq9EWM",
         "USd9drb23Ks",
+        "V-z0k5xu1hM",
         "BTJGr78-zyw",
         "NdU6UdUKaYc",
         "EVts3Ui_0AI",
@@ -65821,7 +65880,7 @@
         "OYsYgzzsdT0",
         "VeH7qKZr0WI"
       ],
-      "episode_count": 202,
+      "episode_count": 203,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -66085,6 +66144,7 @@
         "i75KvXVrtLw",
         "fTfDZO-p5Fo",
         "ayUZreGysTo",
+        "V-z0k5xu1hM",
         "PnpHwhTWw0c",
         "m-nnyNZ0TQ0",
         "jt5hHb6kzYM",
@@ -66241,7 +66301,7 @@
         "uZN5xjoS6TU",
         "aJoRMFWn2Jk"
       ],
-      "episode_count": 194,
+      "episode_count": 195,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -67048,6 +67108,7 @@
         "yPq0U0DETmo",
         "gydZDZ-7QtY",
         "smCEH662iNs",
+        "V-z0k5xu1hM",
         "kwEtOyaFhCA",
         "BTJGr78-zyw",
         "EVts3Ui_0AI",
@@ -67090,7 +67151,7 @@
         "AF8DOS4C2KM",
         "OYsYgzzsdT0"
       ],
-      "episode_count": 127,
+      "episode_count": 128,
       "podcasts": [
         "endgame",
         "diaryofaceo",
@@ -72150,10 +72211,14 @@
       "May": [
         {
           "text": "Technology",
-          "count": 4
+          "count": 5
         },
         {
           "text": "Geopolitics",
+          "count": 4
+        },
+        {
+          "text": "Politics",
           "count": 3
         },
         {
@@ -72161,16 +72226,44 @@
           "count": 3
         },
         {
-          "text": "AI",
+          "text": "Science",
           "count": 2
         },
         {
-          "text": "Politics",
+          "text": "AI",
           "count": 2
         },
         {
           "text": "AI ethics",
           "count": 2
+        },
+        {
+          "text": "UFOs/UAPs",
+          "count": 1
+        },
+        {
+          "text": "Government secrecy",
+          "count": 1
+        },
+        {
+          "text": "Non-human intelligence",
+          "count": 1
+        },
+        {
+          "text": "Reverse-engineering technology",
+          "count": 1
+        },
+        {
+          "text": "Nuclear site interference",
+          "count": 1
+        },
+        {
+          "text": "Remote viewing",
+          "count": 1
+        },
+        {
+          "text": "Spacetime modification",
+          "count": 1
         },
         {
           "text": "Democratic decline",
@@ -72182,10 +72275,6 @@
         },
         {
           "text": "History",
-          "count": 1
-        },
-        {
-          "text": "Science",
           "count": 1
         },
         {
@@ -72239,41 +72328,12 @@
         {
           "text": "Government Regulation",
           "count": 1
-        },
-        {
-          "text": "Data Privacy",
-          "count": 1
-        },
-        {
-          "text": "Philosophy",
-          "count": 1
-        },
-        {
-          "text": "US foreign policy",
-          "count": 1
-        },
-        {
-          "text": "Middle East conflict",
-          "count": 1
-        },
-        {
-          "text": "Petrodollar",
-          "count": 1
-        },
-        {
-          "text": "AI surveillance",
-          "count": 1
-        },
-        {
-          "text": "National defense strategy",
-          "count": 1
         }
       ]
     }
   },
   "new_this_week": [
-    "kwEtOyaFhCA",
-    "sRKBGVFVYAw",
-    "FDjrDeIZAk4"
+    "V-z0k5xu1hM",
+    "kwEtOyaFhCA"
   ]
 }
