@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-05-15T17:36:14.505Z",
-    "total_episodes": 1230,
-    "total_guests": 1015,
+    "last_updated": "2026-05-16T17:36:13.710Z",
+    "total_episodes": 1231,
+    "total_guests": 1016,
     "total_topics": 266,
     "podcasts_count": 5
   },
@@ -21,7 +21,7 @@
       "host": "Dwarkesh Patel",
       "color": "#7F77DD",
       "description": "Deeply researched, intellectually rigorous long-form interviews with world-leading scientists, historians, economists, and AI researchers.",
-      "total_episodes": 118
+      "total_episodes": 119
     },
     {
       "id": "viewfromthetop",
@@ -49,6 +49,44 @@
     }
   ],
   "episodes": [
+    {
+      "id": "X_ZVSPcZhtw",
+      "podcast_id": "dwarkesh",
+      "episode_number": "",
+      "title": "Building AlphaGo from scratch – Eric Jang",
+      "published_date": "2026-05-14",
+      "duration_minutes": 157,
+      "url": "https://youtube.com/watch?v=X_ZVSPcZhtw",
+      "thumbnail_url": "https://i.ytimg.com/vi/X_ZVSPcZhtw/maxresdefault.jpg",
+      "guest_name": "Eric Jang",
+      "guest_title": "Vice President of AI at 1X Technologies",
+      "summary": "Eric Jang dissects AlphaGo's architecture, emphasizing Monte Carlo Tree Search (MCTS), deep neural networks, and self-play as core intelligence primitives. He explains how MCTS efficiently explores the vast Go game tree, guided by a neural network that predicts optimal moves (policy) and game outcomes (value). A crucial insight is AlphaGo's self-play mechanism, which generates immense, high-quality training data, effectively sidestepping the credit assignment problem inherent in many reinforcement learning (RL) setups. Jang highlights how modern open-source projects like KataGo have drastically reduced the computational cost of training strong Go AIs. The discussion extends to the challenges of applying RL to Large Language Models (LLMs) and the potential for AI to automate research, noting LLMs excel at implementation but struggle with identifying novel research questions, ultimately reinforcing the 'Bitter Lesson' that compute often trumps algorithmic cleverness.",
+      "key_highlights": [
+        "AlphaGo exemplifies intelligence primitives: search, learning, self-play",
+        "Monte Carlo Tree Search balances exploration (UCB1) and exploitation (neural network policy)",
+        "Neural networks amortize deep game tree search, predicting policy and value",
+        "Self-play generates high-quality training data, solving the credit assignment problem",
+        "KataGo reduced AlphaGo's training compute 40x, democratizing Go AI",
+        "LLMs automate experiment implementation but struggle with novel research questions",
+        "'Bitter Lesson': compute is the primary driver of intelligence, algorithmic tricks are transitory"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Science",
+        "Technology"
+      ],
+      "subtopics": [
+        "Monte Carlo Tree Search",
+        "Reinforcement Learning",
+        "Large Language Models",
+        "Go AI",
+        "Self-Play",
+        "AI Research Automation"
+      ],
+      "quotes": "What took a whole team of research scientists at DeepMind and millions of dollars of research and compute can now be done for a few thousand dollars of rented compute.",
+      "processed_at": "2026-05-16T14:47:44.130Z"
+    },
     {
       "id": "V-z0k5xu1hM",
       "podcast_id": "diaryofaceo",
@@ -51584,6 +51622,24 @@
       "is_crossover": false
     },
     {
+      "name": "Eric Jang",
+      "title": "Vice President of AI at 1X Technologies",
+      "podcasts": [
+        "dwarkesh"
+      ],
+      "episode_ids": [
+        "X_ZVSPcZhtw"
+      ],
+      "episode_count": 1,
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Science",
+        "Technology"
+      ],
+      "is_crossover": false
+    },
+    {
       "name": "Reiner Pope",
       "title": "CEO of Madox, a new chip startup",
       "podcasts": [
@@ -64479,6 +64535,7 @@
         "4f-yDojIDiY",
         "05W9h8cUOts",
         "yPq0U0DETmo",
+        "X_ZVSPcZhtw",
         "xmkSf5IS-zw",
         "Hrbq66XqtCo",
         "mDG_Hx3BSUE",
@@ -64696,7 +64753,7 @@
         "ZFntEFXKDHM",
         "iSMpTmibeDw"
       ],
-      "episode_count": 319,
+      "episode_count": 320,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -67504,6 +67561,7 @@
       "episode_ids": [
         "7CZQ7hA-2rs",
         "WYvXTYKerOU",
+        "X_ZVSPcZhtw",
         "xmkSf5IS-zw",
         "Hrbq66XqtCo",
         "myP8UjAM1pk",
@@ -67589,7 +67647,7 @@
         "ZFntEFXKDHM",
         "xewD1apJNhw"
       ],
-      "episode_count": 86,
+      "episode_count": 87,
       "podcasts": [
         "endgame",
         "dwarkesh",
@@ -68686,6 +68744,22 @@
       ]
     },
     {
+      "name": "Computer Science",
+      "episode_ids": [
+        "ppmo71B-LEA",
+        "X_ZVSPcZhtw",
+        "14OPT6CcsH4",
+        "F3Jd9GI6XqE",
+        "-DVyjdw4t9I"
+      ],
+      "episode_count": 5,
+      "podcasts": [
+        "endgame",
+        "dwarkesh",
+        "lexfridman"
+      ]
+    },
+    {
       "name": "Space",
       "episode_ids": [
         "yhZAXXI83-4",
@@ -68735,20 +68809,6 @@
         "-Qm1_On71Oo",
         "NXU_M4030nE",
         "p3lsYlod5OU"
-      ],
-      "episode_count": 4,
-      "podcasts": [
-        "endgame",
-        "lexfridman"
-      ]
-    },
-    {
-      "name": "Computer Science",
-      "episode_ids": [
-        "ppmo71B-LEA",
-        "14OPT6CcsH4",
-        "F3Jd9GI6XqE",
-        "-DVyjdw4t9I"
       ],
       "episode_count": 4,
       "podcasts": [
@@ -69294,6 +69354,18 @@
       "episode_count": 2,
       "podcasts": [
         "endgame",
+        "lexfridman"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "episode_ids": [
+        "X_ZVSPcZhtw",
+        "2oHH4aClJQs"
+      ],
+      "episode_count": 2,
+      "podcasts": [
+        "dwarkesh",
         "lexfridman"
       ]
     },
@@ -70810,16 +70882,6 @@
       ]
     },
     {
-      "name": "Machine Learning",
-      "episode_ids": [
-        "2oHH4aClJQs"
-      ],
-      "episode_count": 1,
-      "podcasts": [
-        "lexfridman"
-      ]
-    },
-    {
       "name": "Human-AI Interaction",
       "episode_ids": [
         "2oHH4aClJQs"
@@ -72211,11 +72273,15 @@
       "May": [
         {
           "text": "Technology",
-          "count": 5
+          "count": 6
         },
         {
           "text": "Geopolitics",
           "count": 4
+        },
+        {
+          "text": "AI",
+          "count": 3
         },
         {
           "text": "Politics",
@@ -72230,12 +72296,40 @@
           "count": 2
         },
         {
-          "text": "AI",
+          "text": "AI ethics",
           "count": 2
         },
         {
-          "text": "AI ethics",
-          "count": 2
+          "text": "Machine Learning",
+          "count": 1
+        },
+        {
+          "text": "Computer Science",
+          "count": 1
+        },
+        {
+          "text": "Monte Carlo Tree Search",
+          "count": 1
+        },
+        {
+          "text": "Reinforcement Learning",
+          "count": 1
+        },
+        {
+          "text": "Large Language Models",
+          "count": 1
+        },
+        {
+          "text": "Go AI",
+          "count": 1
+        },
+        {
+          "text": "Self-Play",
+          "count": 1
+        },
+        {
+          "text": "AI Research Automation",
+          "count": 1
         },
         {
           "text": "UFOs/UAPs",
@@ -72296,43 +72390,12 @@
         {
           "text": "Population Genetics",
           "count": 1
-        },
-        {
-          "text": "Bronze Age",
-          "count": 1
-        },
-        {
-          "text": "Leadership",
-          "count": 1
-        },
-        {
-          "text": "Entrepreneurship",
-          "count": 1
-        },
-        {
-          "text": "AI Safety",
-          "count": 1
-        },
-        {
-          "text": "Career Transition",
-          "count": 1
-        },
-        {
-          "text": "Co-founder Dynamics",
-          "count": 1
-        },
-        {
-          "text": "Future of Work",
-          "count": 1
-        },
-        {
-          "text": "Government Regulation",
-          "count": 1
         }
       ]
     }
   },
   "new_this_week": [
+    "X_ZVSPcZhtw",
     "V-z0k5xu1hM",
     "kwEtOyaFhCA"
   ]
